@@ -1,0 +1,961 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Products &#8211; MagPlus</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="MagPlus &raquo; Feed" href="http://themebubble.com/demo/magplus/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MagPlus &raquo; Comments Feed" href="http://themebubble.com/demo/magplus/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MagPlus &raquo; Products Feed" href="http://themebubble.com/demo/magplus/shop/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://themebubble.com/demo/magplus/wp-content/plugins/instagram-feed-pro/css/sb-instagram.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://themebubble.com/demo/magplus/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://themebubble.com/demo/magplus/wp-includes/css/dist/block-library/theme.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://themebubble.com/demo/magplus/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://themebubble.com/demo/magplus/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://themebubble.com/demo/magplus/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='magplus-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700&#038;subset=latin%2Clatin-ext&#038;ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magplus-material-icon-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-theme-css'  href='http://themebubble.com/demo/magplus/wp-content/themes/magplus/css/font-awesome.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ytv-playlist-css'  href='http://themebubble.com/demo/magplus/wp-content/themes/magplus/css/ytv.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='http://themebubble.com/demo/magplus/wp-content/themes/magplus/css/woocommerce.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://themebubble.com/demo/magplus/wp-content/themes/magplus/css/bootstrap.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magplus-main-style-css'  href='http://themebubble.com/demo/magplus/wp-content/themes/magplus/css/style.css?ver=5.3' type='text/css' media='all' />
+<style id='magplus-main-style-inline-css' type='text/css'>
+.tt-header .main-nav > ul > li:not(.mega) > ul > li > a:hover,
+      .tt-header .main-nav > ul > li:not(.mega) > ul > li > ul > li > a:hover,
+      .mega.type-2 ul.tt-mega-wrapper li>ul a:hover,
+      .tt-mega-list a:hover,.tt-s-popup-devider:after,
+      .tt-s-popup-close:hover:before,.tt-s-popup-close:hover:after,.tt-tab-wrapper.type-1 .tt-nav-tab-item:before,
+      .tt-pagination a:hover,.tt-pagination li.active a,.tt-thumb-popup-close:hover,.tt-video-popup-close:hover,
+      .c-btn.type-1.color-2:before,.c-btn.type-1.style-2.color-2, .page-numbers a:hover, .page-numbers li span.current,.tpl-progress .progress-bar, .c-pagination.color-2 .swiper-active-switch, .tt-comment-form .form-submit,
+      .woo-pagination span.current, .woo-pagination a:hover {
+        background: #51c8fa;
+      }
+
+      .tt-header .main-nav > ul > li.active > a,
+      .tt-header .main-nav > ul > li:hover > a,.tt-s-popup-btn:hover,
+      .tt-header.color-2 .top-menu a:hover,.tt-header.color-2 .top-social a:hover,
+      .tt-s-popup-submit:hover .fa,.tt-mslide-label a:hover,
+      .tt-sponsor-title:hover,.tt-sponsor.type-2 .tt-sponsor-title:hover,
+      .tt-post-title:hover,.tt-post-label span a:hover,
+      .tt-post-bottom a:hover,.tt-post-bottom a:hover .fa,
+      .tt-post.light .tt-post-title:hover,.tt-blog-user-content a:hover,
+      .tt-blog-user.light .tt-blog-user-content a:hover,.simple-img-desc a:hover,
+      .tt-author-title:hover,.tt-author-social a:hover,.tt-blog-nav-title:hover,
+      .tt-comment-label a:hover,.tt-comment-reply:hover,
+      .tt-comment-reply:hover .fa,
+      .comment-reply-link:hover,
+      .comment-reply-link:hover .fa,
+      .comment-edit-link:hover,.tt-search-submit:hover,.tt-news-title:hover,
+      .tt-mblock-title:hover,.tt-mblock-label a:hover,.simple-text a,
+      .c-btn.type-1.style-2.color-2:hover,.c-btn.type-2:hover,.c-btn.type-3.color-2:hover,
+      .c-btn.type-3.color-3, .sidebar-item.widget_recent_posts_entries .tt-post.dark .tt-post-title:hover, .tt-post-cat a:hover, .sidebar-item.widget ul li a:hover, .tt-small-blog-slider .tt-h4-title a:hover, .tt-comment-form .form-submit:hover {
+        color: #51c8fa;
+      }
+
+      .c-pagination.color-2 .swiper-pagination-switch,
+      .c-pagination.color-2 .swiper-active-switch,.tt-search input[type="text"]:focus,
+      #loader,.c-btn.type-1.color-2,.c-input:focus,.c-btn.type-3.color-2:hover,.c-area:focus, .tt-title-text,
+      .c-pagination.color-2 .swiper-pagination-switch, .tt-comment-form .form-submit, .custom-arrow-left.tt-swiper-arrow-3:hover, .custom-arrow-right.tt-swiper-arrow-3:hover {
+        border-color: #51c8fa;
+      }.woocommerce .onsale, .woocommerce-page .onsale,
+      .ajax_add_to_cart.c-btn.type-2,
+      .product_type_variable.add_to_cart_button.c-btn.type-2, .tt-custom-pagination .current,
+      .price_slider_amount button[type="submit"],
+      .widget_price_filter .ui-slider .ui-slider-handle,
+      .widget_shopping_cart .buttons .checkout,
+      .woocommerce-form-login input[type="submit"],
+      .woocommerce .shop_table .button[name="apply_coupon"], 
+      .woocommerce-page .shop_table .button[name="apply_coupon"], 
+      .single_add_to_cart_button,
+      .woocommerce .shop_table .button[name="update_cart"], .woocommerce-page .shop_table .button[name="update_cart"],
+      .woocommerce #payment .button, .woocommerce-page #payment .button, .woocommerce-page .wc-proceed-to-checkout .button {
+        background: #51c8fa !important;
+      }
+
+      .ajax_add_to_cart.c-btn.type-2:hover, 
+      .product_type_variable.add_to_cart_button.c-btn.type-2:hover,
+      .widget_shopping_cart .buttons .checkout:hover,
+      .price_slider_amount button[type="submit"]:hover,
+      .woocommerce .wc-proceed-to-checkout .button:hover,
+      .woocommerce .shop_table .button:hover,
+      .woocommerce .single_add_to_cart_button.button:hover,
+      .woocommerce-page .wc-proceed-to-checkout .button:hover,
+      .woocommerce-page .shop_table .button:hover,
+      .woocommerce-page .single_add_to_cart_button.button:hover,
+      .woocommerce .shop_table .button[name="update_cart"]:hover,
+      .woocommerce-page .shop_table .button[name="update_cart"]:hover,
+      .woocommerce #payment .button:hover, .woocommerce-page #payment .button:hover {
+        background:rgba(81, 200, 250, 0.8) !important;
+      }.tt-header-type-5 .logo, .tt-header .logo {max-width:295px;height:45px;line-height:45px;}body.archive .tt-post-views {display:none !important;}@media (max-width:767px) {.tt-iframe.smallVid {display:block !important;}}@font-face {font-family:;src:;font-weight: normal;font-style: normal;}
+</style>
+<link rel='stylesheet' id='newsletter-css'  href='http://themebubble.com/demo/magplus/wp-content/plugins/newsletter/style.css?ver=6.7.9' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='http://themebubble.com/demo/magplus/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.4' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='redux-google-fonts-magplus_theme_options-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A500&#038;ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/demo\/magplus\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/demo\/magplus\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/themebubble.com\/demo\/magplus\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.3.0'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.0.4'></script>
+<link rel='https://api.w.org/' href='http://themebubble.com/demo/magplus/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themebubble.com/demo/magplus/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themebubble.com/demo/magplus/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<meta name="generator" content="WooCommerce 4.3.0" />
+    <meta property="og:image" content="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/14-394x218.jpg"/>
+    <meta name="twitter:image:src" content="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/14-394x218.jpg">
+  	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="http://themebubble.com/demo/magplus/wp-content/uploads/2017/04/cropped-Favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://themebubble.com/demo/magplus/wp-content/uploads/2017/04/cropped-Favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://themebubble.com/demo/magplus/wp-content/uploads/2017/04/cropped-Favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://themebubble.com/demo/magplus/wp-content/uploads/2017/04/cropped-Favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.single.single-post .magazine-pro-quote {
+	margin-bottom:30px;
+}		</style>
+		<style type="text/css" title="dynamic-css" class="options-output">.tt-header .top-line, .tt-header.color-2 .top-line{background:#111111;}.tt-header .top-menu a, .tt-header .top-social a, .tt-header.color-2 .top-menu a, .tt-header.color-2 .top-social a{color:#e8e8e8;}.tt-header .top-menu a:hover, .tt-header .top-social a:hover, .tt-header.color-2 .top-menu a:hover, .tt-header.color-2 .top-social a:hover{color:#bcbcbc;}.tt-header .main-nav > ul > li.active > a, .tt-header .main-nav > ul > li:hover > a, .tt-s-popup-btn:hover, .tt-header .cmn-mobile-switch:hover:before, .tt-header .cmn-mobile-switch:hover:after, .tt-header .cmn-mobile-switch:hover span{color:#666666;}.tt-header-style-link .main-nav > ul > li > a:after, .tt-header-type-5 .main-nav > ul > li > a:after{background:#5ac8fa;}.sidebar-heading-style2 .tt-title-text, .sidebar-heading-style4 .tt-title-block, .sidebar-heading-style5 .tt-title-block, .sidebar-heading-style3 .tt-title-block{border-color:#ff2d55;}.sidebar-heading-style2 .tt-title-block:after, .sidebar-heading-style1 .tt-title-text:before, .sidebar-heading-style1 .tt-title-text:after, .sidebar-heading-style6 .tt-title-text:before, .sidebar-heading-style6 .tt-title-text:after{background:#ff2d55;}.sidebar-heading-style4 .tt-title-text, .sidebar-heading-style5 .tt-title-text, .sidebar-heading-style3 .tt-title-block, .sidebar-heading-style6 .tt-title-text{background:#ff2d55;}.sidebar-heading-style5 .tt-title-text:after{border-left-color:#ff2d55;}#loading-text,
+      .simple-text h1,
+      .c-h1,.simple-text h2,
+      .c-h2,.simple-text h3,.c-h3,.simple-text h4,.c-h4,.simple-text h5,.c-h5,.simple-text h6,
+      .c-h6,.simple-text.font-poppins,.c-btn.type-1,.c-btn.type-2,.c-btn.type-3,.c-input,
+      .tt-mobile-nav > ul > li > a,.tt-mobile-nav > ul > li > ul > li > a,
+      .tt-header .main-nav > ul > li:not(.mega) > ul > li > a,.tt-mega-list a,.tt-s-popup-title,
+      .tt-title-text,.tt-title-block-2,
+      .comment-reply-title,.tt-tab-wrapper.type-1 .tt-nav-tab-item,
+      .tt-f-list a,.tt-footer-copy,.tt-pagination a,.tt-blog-user-content,.tt-author-title,.tt-blog-nav-label,
+      .tt-blog-nav-title,.tt-comment-label,.tt-search input[type="text"],.tt-share-title,.tt-mblock-label, .page-numbers a,.page-numbers span, .footer_widget.widget_nav_menu li a, .tt-h1-title, .tt-h4-title, .tt-h2-title, .shortcode-4 .tt-title-slider a, .footer_widget .tt-title-block.type-2 .tt-title-text, .footer_widget .tt-newsletter-title.c-h4 small{font-family:Roboto;font-weight:500;font-style:normal;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  </head>
+  <body class="archive post-type-archive post-type-archive-product wp-embed-responsive theme-magplus woocommerce woocommerce-page woocommerce-no-js  full-page header-style1 tt-top-header-enable tt-header-sticky wpb-js-composer js-comp-ver-6.0.4 vc_responsive elementor-default">
+
+  <div id="wrapper">
+
+      <div id="loader-wrapper">
+      <div id="loader"></div>
+      <div id="loading-text">LOADING</div>
+    </div>
+        <div class="tt-mobile-block">
+        <div class="tt-mobile-close"></div>
+                <nav class="tt-mobile-nav">
+          <ul id="side-header-nav" class="side-menu"><li id="menu-item-1451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1451"><a href="http://themebubble.com/demo/magplus/home/">Home</a></li>
+<li id="menu-item-1453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1453"><a href="http://themebubble.com/demo/magplus/blog/category/orange/">Orange</a></li>
+<li id="menu-item-1455" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1455"><a href="http://themebubble.com/demo/magplus/blog/category/blue/">Blue</a></li>
+<li id="menu-item-1456" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1456"><a href="http://themebubble.com/demo/magplus/blog/category/red/">Red</a></li>
+<li id="menu-item-1457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1457"><a href="http://themebubble.com/demo/magplus/blog/category/green/">Green</a></li>
+<li id="menu-item-1452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1452"><a href="http://themebubble.com/demo/magplus/contact/">Contact</a></li>
+</ul>        </nav>
+    </div>
+    <div class="tt-mobile-overlay"></div>
+        <div class="tt-s-popup">
+      <div class="tt-s-popup-overlay"></div>
+      <div class="tt-s-popup-content">
+        <div class="tt-s-popup-layer"></div>
+        <div class="tt-s-popup-container">
+          <form action="http://themebubble.com/demo/magplus/" method="get" class="tt-s-popup-form">
+            <div class="tt-s-popup-field">
+              <input type="text" id="s" name="s" value="" placeholder="Type to search" class="input" required>
+              <div class="tt-s-popup-devider"></div>
+              <h3 class="tt-s-popup-title">Type to search</h3>     
+            </div>
+            <a href="#" class="tt-s-popup-close"></a>
+          </form> 
+        </div>
+      </div>
+    </div>
+        <div class="tt-video-popup">
+      <div class="tt-video-popup-overlay"></div>
+      <div class="tt-video-popup-content">
+        <div class="tt-video-popup-layer"></div>
+        <div class="tt-video-popup-container">
+          <div class="tt-video-popup-align">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="about:blank"></iframe>
+            </div>
+          </div>
+          <div class="tt-video-popup-close"></div>
+        </div>
+      </div>
+    </div> 
+
+    <div class="tt-thumb-popup">
+      <div class="tt-thumb-popup-overlay"></div>
+      <div class="tt-thumb-popup-content">
+        <div class="tt-thumb-popup-layer"></div>
+        <div class="tt-thumb-popup-container">
+          <div class="tt-thumb-popup-align">
+            <img class="tt-thumb-popup-img img-responsive" src="about:blank" alt="">
+          </div>
+          <div class="tt-thumb-popup-close"></div>
+        </div>
+      </div>
+    </div>  
+  
+  <div id="content-wrapper">
+  
+<!-- HEADER -->
+<header class="tt-header header-style1 tt-header-style-link full-page">
+  <div class="tt-header-wrapper">
+    <div class="top-inner clearfix">
+      <div class="container">
+        
+    <a href="http://themebubble.com/demo/magplus/" class="logo tt-logo-1x"><img src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/Logo.png" alt="MagPlus" width="295"  height="45"></a>
+            
+    <a href="http://themebubble.com/demo/magplus/" class="logo tt-logo-2x"><img src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/Logo-1.png" alt="MagPlus" width="295"  height="45" style="max-height:45px; height:auto;"></a>
+                    <div class="cmn-toggle-switch"><span></span></div>
+        <div class="cmn-mobile-switch"><span></span></div>
+        <a class="tt-s-popup-btn"><i class="fa fa-search" aria-hidden="true"></i></a>
+      </div>
+    </div>
+
+
+    <div class="toggle-block">
+      <div class="toggle-block-container">
+        <nav class="main-nav clearfix">
+          <ul id="nav" class="menu"><li id="menu-item-1308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1308 parent mega type-2  parent"><a href="#">Home<i class="menu-toggle fa fa-angle-down"></i></a>
+<ul class="drop-menu tt-mega-wrapper clearfix ">
+	<li id="menu-item-1309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1309"><a href="#">Column 1</a>
+	<ul class="">
+		<li id="menu-item-1310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1310"><a target="_blank" href="http://themebubble.com/demo/magplus/">Magazine Pro</a></li>		<li id="menu-item-1311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1311"><a target="_blank" href="http://themebubble.com/demo/magplus/fashionpro/">Fashion Pro</a></li>		<li id="menu-item-1312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1312"><a target="_blank" href="http://themebubble.com/demo/magplus/newspro/">News Pro</a></li>		<li id="menu-item-1313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1313"><a target="_blank" href="http://themebubble.com/demo/magplus/sportspro/">Sports Pro</a></li>		<li id="menu-item-1314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1314"><a target="_blank" href="http://themebubble.com/demo/magplus/foodpro/">Food Pro</a></li>		<li id="menu-item-1315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1315"><a target="_blank" href="http://themebubble.com/demo/magplus/techpro/">Tech Pro</a></li>		<li id="menu-item-1316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1316"><a target="_blank" href="http://themebubble.com/demo/magplus/travelpro">Travel Pro</a></li>		<li id="menu-item-1317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1317"><a target="_blank" href="http://themebubble.com/demo/magplus/blogpro/">Blog Pro</a></li></ul></li>	<li id="menu-item-1318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1318"><a href="#">Column 2</a>
+	<ul class="">
+		<li id="menu-item-1319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1319"><a target="_blank" href="http://themebubble.com/demo/magplus/viralpro/">Viral Pro</a></li>		<li id="menu-item-1320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1320"><a target="_blank" href="http://themebubble.com/demo/magplus/videopro/">Video Pro</a></li>		<li id="menu-item-1321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1321"><a target="_blank" href="http://themebubble.com/demo/magplus/fitnesspro/">Fitness Pro</a></li>		<li id="menu-item-1322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1322"><a target="_blank" href="http://themebubble.com/demo/magplus/musicpro/">Music Pro</a></li>		<li id="menu-item-1323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1323"><a target="_blank" href="http://themebubble.com/demo/magplus/healthpro/">Health Pro</a></li>		<li id="menu-item-1324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1324"><a target="_blank" href="http://themebubble.com/demo/magplus/carpro/">Car Pro</a></li>		<li id="menu-item-1325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1325"><a target="_blank" href="http://themebubble.com/demo/magplus/femininepro/">Feminine Pro</a></li>		<li id="menu-item-1326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1326"><a target="_blank" href="http://themebubble.com/demo/magplus/minimalpro/">Minimal Pro</a></li></ul></li>	<li id="menu-item-1327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1327"><a href="#">Column 3</a>
+	<ul class="">
+		<li id="menu-item-1328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1328"><a target="_blank" href="http://themebubble.com/demo/magplus/classicpro/">Classic Pro</a></li>		<li id="menu-item-1329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1329"><a target="_blank" href="http://themebubble.com/demo/magplus/modernpro/">Modern Pro</a></li>		<li id="menu-item-1330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1330"><a target="_blank" href="http://themebubble.com/demo/magplus/cleanpro/">Clean Pro</a></li>		<li id="menu-item-1331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331"><a target="_blank" href="http://themebubble.com/demo/magplus/luxurypro/">Luxury Pro</a></li>		<li id="menu-item-1332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1332"><a target="_blank" href="http://themebubble.com/demo/magplus/pinpro/">Pin Pro</a></li>		<li id="menu-item-1333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1333"><a target="_blank" href="http://themebubble.com/demo/magplus/photographypro/">Photography Pro</a></li>		<li id="menu-item-1334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334"><a target="_blank" href="http://themebubble.com/demo/magplus/artpro/">Art Pro</a></li>		<li id="menu-item-1335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1335"><a target="_blank" href="http://themebubble.com/demo/magplus/designpro/">Design Pro</a></li></ul></li>	<li id="menu-item-1336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1336"><a href="#">Column 4</a>
+	<ul class="">
+		<li id="menu-item-1337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1337"><a target="_blank" href="http://themebubble.com/demo/magplus/lifestylepro/">Lifestyle Pro</a></li>		<li id="menu-item-1338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1338"><a target="_blank" href="http://themebubble.com/demo/magplus/gamepro/">Game Pro</a></li>		<li id="menu-item-1339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1339"><a target="_blank" href="http://themebubble.com/demo/magplus/moviepro/">Movie Pro</a></li>		<li id="menu-item-1340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1340"><a target="_blank" href="http://themebubble.com/demo/magplus/gadgetpro/">Gadget Pro</a></li>		<li id="menu-item-1341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1341"><a target="_blank" href="http://themebubble.com/demo/magplus/reviewpro/">Review Pro</a></li>		<li id="menu-item-1342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1342"><a target="_blank" href="http://themebubble.com/demo/magplus/podcastpro/">Podcast Pro</a></li></ul></li></ul></li><li id="menu-item-1343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1343 parent mega type-2  parent"><a>Modules<i class="menu-toggle fa fa-angle-down"></i></a>
+<ul class="drop-menu tt-mega-wrapper clearfix ">
+	<li id="menu-item-1344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1344"><a href="#">Column 1</a>
+	<ul class="">
+		<li id="menu-item-1345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1345"><a target="_blank" href="http://themebubble.com/demo/magplus/blockquote/">Blockquote</a></li>		<li id="menu-item-1346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346"><a target="_blank" href="http://themebubble.com/demo/magplus/about-us-block/">About Us Block</a></li>		<li id="menu-item-1347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1347"><a target="_blank" href="http://themebubble.com/demo/magplus/blog-masonry/">Blog Masonry</a></li>		<li id="menu-item-1348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1348"><a target="_blank" href="http://themebubble.com/demo/magplus/category-block/">Category Block</a></li>		<li id="menu-item-1349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1349"><a target="_blank" href="http://themebubble.com/demo/magplus/divider/">Divider</a></li>		<li id="menu-item-1350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1350"><a target="_blank" href="http://themebubble.com/demo/magplus/featured_post/">Featured Post</a></li>		<li id="menu-item-1351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1351"><a target="_blank" href="http://themebubble.com/demo/magplus/gallery-showcase/">Gallery Showcase</a></li></ul></li>	<li id="menu-item-1352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1352"><a href="#">Column 2</a>
+	<ul class="">
+		<li id="menu-item-1353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1353"><a target="_blank" href="http://themebubble.com/demo/magplus/image-block/">Image Block</a></li>		<li id="menu-item-1354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1354"><a target="_blank" href="http://themebubble.com/demo/magplus/section-heading/">Section Heading</a></li>		<li id="menu-item-1355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1355"><a target="_blank" href="http://themebubble.com/demo/magplus/newsletter/">Newsletter</a></li>		<li id="menu-item-1356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1356"><a target="_blank" href="http://themebubble.com/demo/magplus/post-card/">Post Card</a></li>		<li id="menu-item-1357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1357"><a target="_blank" href="http://themebubble.com/demo/magplus/post-grid/">Post Grid</a></li>		<li id="menu-item-1358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1358"><a target="_blank" href="http://themebubble.com/demo/magplus/post-grid-series/">Post Grid Series</a></li>		<li id="menu-item-1359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1359"><a target="_blank" href="http://themebubble.com/demo/magplus/post-movie/">Post Movie</a></li></ul></li>	<li id="menu-item-1360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1360"><a href="#">Column 3</a>
+	<ul class="">
+		<li id="menu-item-1361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1361"><a target="_blank" href="http://themebubble.com/demo/magplus/slider-content/">Slider Content</a></li>		<li id="menu-item-1362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1362"><a target="_blank" href="http://themebubble.com/demo/magplus/post-video-playlist/">Post Video Playlist</a></li>		<li id="menu-item-1363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1363"><a target="_blank" href="http://themebubble.com/demo/magplus/sound-cloud-embed/">Sound Cloud Embed</a></li>		<li id="menu-item-1364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1364"><a target="_blank" href="http://themebubble.com/demo/magplus/tabs/">Tabs</a></li>		<li id="menu-item-1365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1365"><a target="_blank" href="http://themebubble.com/demo/magplus/text-block/">Text Block</a></li>		<li id="menu-item-1366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1366"><a target="_blank" href="http://themebubble.com/demo/magplus/video-block/">Video Block</a></li>		<li id="menu-item-1367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1367"><a target="_blank" href="http://themebubble.com/demo/magplus/youtube-video-playlist/">Youtube Video Playlist</a></li></ul></li>	<li id="menu-item-1368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1368"><a href="#">Column 4</a>
+	<ul class="">
+		<li id="menu-item-1369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1369"><a target="_blank" href="http://themebubble.com/demo/magplus/weekly-top-7-blog-news/">Weekly Top 7 Blog News</a></li>		<li id="menu-item-1370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1370"><a target="_blank" href="http://themebubble.com/demo/magplus/weekly-top-5-blog-news/">Weekly Top 5 Blog News</a></li>		<li id="menu-item-1371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1371"><a target="_blank" href="http://themebubble.com/demo/magplus/recent-news/">Recent News</a></li>		<li id="menu-item-1372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1372"><a target="_blank" href="http://themebubble.com/demo/magplus/gif-showcase/">GIF Showcase</a></li>		<li id="menu-item-1373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1373"><a target="_blank" href="http://themebubble.com/demo/magplus/hand-picked-blog/">Hand Picked Blog</a></li>		<li id="menu-item-1374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1374"><a target="_blank" href="http://themebubble.com/demo/magplus/progress-bar-rating/">Progress Bar Rating</a></li></ul></li></ul></li><li id="menu-item-1375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1375 parent mega  parent"><a href="#">Mega Menu<p class="tt-label" style="background:#4CD964;">HOT</p><i class="menu-toggle fa fa-angle-down"></i></a>    <div class="tt-mega-wrapper clearfix">
+      <ul class="tt-mega-list">
+      <li class=" active"><a href="http://themebubble.com/demo/magplus/blog/category/blue/">Blue</a></li><li class=""><a href="http://themebubble.com/demo/magplus/blog/category/orange/">Orange</a></li><li class=""><a href="http://themebubble.com/demo/magplus/blog/category/red/">Red</a></li><li class=""><a href="http://themebubble.com/demo/magplus/blog/category/green/">Green</a></li>      </ul>
+      <div class="tt-mega-content">
+                <div class="tt-mega-entry  active">
+          <div class="row">
+
+                          <div class="col-sm-3 post-536 post type-post status-publish format-aside has-post-thumbnail hentry category-blue category-featured tag-classic tag-fashion post_format-post-format-aside"> 
+                <div class="tt-post type-3">
+                            <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/swimming-is-a-reset-button/">
+                          <span class="tt-post-icon">9.<small>6</small></span>
+                        <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/phoebe-dill-106880-min-183x96.jpg" class="img-responsive wp-post-image" alt="" />          </a>
+                          <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/swimming-is-a-reset-button/">Philosophers on Art from Kant to the Postmodernist</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 9, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-532 post type-post status-publish format-standard has-post-thumbnail hentry category-blue tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/milo-yiannopoulos-sues-over-cancelled-book-deal/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/Ottos-Pool-1-1-_CE4E8DD6-527B-4BB4-B29B690C80B63E44_e4abcf20-f31a-4559-b7a70d6676aa69cc-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/milo-yiannopoulos-sues-over-cancelled-book-deal/">Milo Yiannopoulos sues over cancelled book deal</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 9, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-529 post type-post status-publish format-standard has-post-thumbnail hentry category-blue tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/superdrug-owner-looks-to-expand-in-uk/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/toa-heftiba-201961-min-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/superdrug-owner-looks-to-expand-in-uk/">Superdrug owner looks to expand in UK</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 9, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-526 post type-post status-publish format-standard has-post-thumbnail hentry category-blue tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/blue-is-the-warmest-color/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/03/aktien-sommerloch-compass-comdirect-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/blue-is-the-warmest-color/">Blue Is The Warmest Color</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 9, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+                <div class="tt-mega-entry ">
+          <div class="row">
+
+                          <div class="col-sm-3 post-599 post type-post status-publish format-audio has-post-thumbnail hentry category-orange tag-classic tag-fashion post_format-post-format-audio"> 
+                <div class="tt-post type-3">
+                            <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/how-to-future-proof-your-knees/">
+            <span class="tt-post-icon"><i class="material-icons">mic</i></span>
+            <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/22-min-183x96.jpg" class="img-responsive wp-post-image" alt="" />          </a>
+                          <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/how-to-future-proof-your-knees/">How to future proof your knees</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-598 post type-post status-publish format-standard has-post-thumbnail hentry category-orange tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/rookie-judge-seeks-healthy-options-at-taste-of-buffalo/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/gabriel-izgi-173852-min-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/rookie-judge-seeks-healthy-options-at-taste-of-buffalo/">Rookie judge seeks healthy options at Taste of Buffalo</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-597 post type-post status-publish format-standard has-post-thumbnail hentry category-featured category-orange tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/nokia-regrets-health-app-backlash/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/joshua-peacock-262062-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/nokia-regrets-health-app-backlash/">Nokia &#8216;regrets&#8217; health app backlash</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-596 post type-post status-publish format-standard has-post-thumbnail hentry category-orange tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/fitness-what-it-takes-to-tackle-the-tour-de-france/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/nigel-tadyanehondo-199310-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/fitness-what-it-takes-to-tackle-the-tour-de-france/">Fitness: What it takes to tackle the Tour de France</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+                <div class="tt-mega-entry ">
+          <div class="row">
+
+                          <div class="col-sm-3 post-515 post type-post status-publish format-gallery has-post-thumbnail hentry category-red tag-classic tag-fashion post_format-post-format-gallery"> 
+                <div class="tt-post type-3">
+                            <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/volkswagen-beetle-car-review/">
+            <span class="tt-post-icon"><i class="material-icons">filter_none</i></span>
+            <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/03/maxresdefault-183x96.jpg" class="img-responsive wp-post-image" alt="" />          </a>
+                          <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/volkswagen-beetle-car-review/">10 Things you shouldn&#8217;t do this Fall</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 9, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-321 post type-post status-publish format-standard has-post-thumbnail hentry category-red tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/the-1-colour-girls-are-most-worried-about-wearing-in-fashion-week/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/david-straight-37577-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/the-1-colour-girls-are-most-worried-about-wearing-in-fashion-week/">Volkswagen Beetle: car review</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">March 23, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-320 post type-post status-publish format-standard has-post-thumbnail hentry category-featured category-red tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/kate-middleton-dazzles-in-paris-with-three-outfit-changes-within-hours/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/03/samuel-zeller-158996-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/kate-middleton-dazzles-in-paris-with-three-outfit-changes-within-hours/">Is VR Slowly Taking Over 2017?</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">March 23, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-273 post type-post status-publish format-gallery has-post-thumbnail hentry category-red tag-classic tag-fashion post_format-post-format-gallery"> 
+                <div class="tt-post type-3">
+                            <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/donna-lee-making-a-comeback/">
+            <span class="tt-post-icon"><i class="material-icons">filter_none</i></span>
+            <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/03/mohamed-nohassi-228419-min-183x96.jpg" class="img-responsive wp-post-image" alt="" />          </a>
+                          <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/donna-lee-making-a-comeback/">Spring reconstructs, with a great deal of liberty</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">March 20, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+                <div class="tt-mega-entry ">
+          <div class="row">
+
+                          <div class="col-sm-3 post-563 post type-post status-publish format-standard has-post-thumbnail hentry category-green tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/what-if-all-journalists-wrote-like-tech-journalists/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/matthew-brodeur-214575-1-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/what-if-all-journalists-wrote-like-tech-journalists/">What if all journalists wrote like tech journalists?</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-564 post type-post status-publish format-video has-post-thumbnail hentry category-green tag-classic tag-fashion post_format-post-format-video"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img tt-video-open custom-hover " href="https://www.youtube.com/embed/3Q3eITC01Fg?autoplay=1">
+          <span class="tt-post-icon"><i class="material-icons">videocam</i></span>
+                      <span class="tt-post-length">16:47</span>
+                    <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/8_1-portfolio_denni-van-huis-min-183x96.jpg" class="img-responsive wp-post-image" alt="" />        </a>
+                          <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/video-game-tech-at-play-in-self-driving-cars/">Video game tech at play in self-driving cars</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-562 post type-post status-publish format-standard has-post-thumbnail hentry category-green tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/rise-2017-us-tech-firms-are-doubling-down/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/stocksy-comp-328976-lede-1493144143-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/rise-2017-us-tech-firms-are-doubling-down/">RISE 2017: US Tech Firms Are Doubling Down</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-555 post type-post status-publish format-standard has-post-thumbnail hentry category-green tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/cardiff-ranks-low-in-green-spaces-league-table/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/samuel-zeller-62819-min-min-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/cardiff-ranks-low-in-green-spaces-league-table/">Cardiff ranks low in green spaces league table</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/blog/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 10, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+              </div>
+    </div>
+  </li><li id="menu-item-1376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1376 parent mega type-2  parent"><a href="#">Article Style<i class="menu-toggle fa fa-angle-down"></i></a>
+<ul class="drop-menu tt-mega-wrapper clearfix ">
+	<li id="menu-item-1377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1377"><a href="#">Layout Style</a>
+	<ul class="">
+		<li id="menu-item-1378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1378"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/23/there-will-be-blood/">Default</a></li>		<li id="menu-item-1379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1379"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/23/man-against-the-sea/">Title Left</a></li>		<li id="menu-item-1380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1380"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/23/two-riders-were-approaching-wind-begin-to-howl/">No Hero</a></li>		<li id="menu-item-1381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1381"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/23/kate-middleton-dazzles-in-paris-with-three-outfit-changes-within-hours/">Big Hero</a></li>		<li id="menu-item-1382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1382"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/20/kellyanne-conway-admits-she-helped-a-friend-get-and-pay-for-an-abortion/">Box Hero</a></li>		<li id="menu-item-1383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1383"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/20/fashion-just-had-its-most-racially-diverse-season-ever-according-to-a-new-report/">Title Below Hero</a></li>		<li id="menu-item-1384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1384"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/23/the-1-colour-girls-are-most-worried-about-wearing-in-fashion-week/">Hero Alternative</a></li></ul></li>	<li id="menu-item-1385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1385"><a href="#">Post Formats</a>
+	<ul class="">
+		<li id="menu-item-1386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1386"><a href="http://themebubble.com/demo/magplus/blog/2017/07/10/chinese-will-spend-billions-on-real-estate-in-2017/">Standard</a></li>		<li id="menu-item-1387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1387"><a href="http://themebubble.com/demo/magplus/blog/2017/07/10/how-to-future-proof-your-knees/">Audio</a></li>		<li id="menu-item-1388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1388"><a href="http://themebubble.com/demo/magplus/blog/2017/07/10/video-game-tech-at-play-in-self-driving-cars/">Video</a></li>		<li id="menu-item-1389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1389"><a href="http://themebubble.com/demo/magplus/blog/2017/07/09/volkswagen-beetle-car-review/">Gallery</a></li>		<li id="menu-item-1390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1390"><a href="http://themebubble.com/demo/magplus/blog/2017/07/09/swimming-is-a-reset-button/">Review</a></li>		<li id="menu-item-1391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1391"><a href="http://themebubble.com/demo/magplus/pinpro/2017/03/23/wid-cat-did-growl/">Quote</a></li>		<li id="menu-item-1470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1470"><a href="http://themebubble.com/demo/magplus/viralpro/2017/03/23/build-yourself-and-extravagant-house-and-well-tell-you-which-nancy-meyers-movie-you-belong-in/">Quiz</a></li></ul></li>	<li id="menu-item-1392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1392"><a href="#">Embed Style</a>
+	<ul class="">
+		<li id="menu-item-1393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1393"><a href="http://themebubble.com/demo/magplus/viralpro/2017/03/23/26-dogs-who-depend-on-coffee-as-much-as-we-do/">GIF</a></li>		<li id="menu-item-1394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1394"><a href="http://themebubble.com/demo/magplus/fashionpro/2017/03/20/kellyanne-conway-admits-she-helped-a-friend-get-and-pay-for-an-abortion/">Self Hosted</a></li>		<li id="menu-item-1395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1395"><a href="http://themebubble.com/demo/magplus/videopro/2017/03/23/fight-club1999/">YouTube</a></li>		<li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1396"><a href="http://themebubble.com/demo/magplus/videopro/2017/03/23/american-gods2017/">YouTube Playlist</a></li>		<li id="menu-item-1397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1397"><a href="http://themebubble.com/demo/magplus/videopro/2017/03/23/moonlight2017/">Vimeo</a></li>		<li id="menu-item-1398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1398"><a href="http://themebubble.com/demo/magplus/videopro/2017/03/23/star-wars2017/">Wistia</a></li>		<li id="menu-item-1399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1399"><a href="http://themebubble.com/demo/magplus/videopro/2017/03/23/the-1-colour-girls-are-most-worried-about-wearing-in-fashion-week/">Daily Motion</a></li></ul></li>	<li id="menu-item-1400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1400"><a href="#">Sidebar Style</a>
+	<ul class="">
+		<li id="menu-item-1401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1401"><a href="http://themebubble.com/demo/magplus/blogpro/2017/03/23/all-along-the-watchtower/">Full Width</a></li>		<li id="menu-item-1402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1402"><a href="http://themebubble.com/demo/magplus/videopro/2017/03/23/lost-in-translation/">Left Sidebar</a></li>		<li id="menu-item-1403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1403"><a href="http://themebubble.com/demo/magplus/blog/2017/07/09/swimming-is-a-reset-button/">Right Sidebar</a></li>		<li id="menu-item-1404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1404"><a href="http://themebubble.com/demo/magplus/newspro/2017/05/06/south-koreas-moon-jae-in-sworn-in-vowing-to-address-north/">Double Sidebar</a></li></ul></li></ul></li><li id="menu-item-1405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1405 parent"><a href="http://themebubble.com/demo/magplus/shop/">Shop<i class="menu-toggle fa fa-angle-down"></i></a>
+<ul class="drop-menu ">
+	<li id="menu-item-1406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1406"><a href="http://themebubble.com/demo/magplus/shop/">Default Shop</a></li>	<li id="menu-item-1407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1407"><a href="http://themebubble.com/demo/magplus/product/flying-ninja/">Product Single</a></li>	<li id="menu-item-1408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1408"><a href="http://themebubble.com/demo/magplus/cart/">Cart</a></li>	<li id="menu-item-1409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1409"><a href="http://themebubble.com/demo/magplus/checkout/">Checkout</a></li></ul></li><li id="menu-item-1410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1410"><a href="http://themebubble.com/demo/magplus/contact/">Contact</a></li></ul>        </nav>
+
+
+        <div class="nav-more">
+          <div class="tt-sponsor clearfix">
+<a class="tt-sponsor-img">
+<img src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/Untitled-2.jpg" height="89" width="62" alt="">
+</a>
+<div class="tt-sponsor-info">
+<a class="tt-sponsor-title c-h6" href="#">MagPlus Ad Space</a>
+<div class="simple-text size-2">
+<p>320x100</p>
+</div>
+<a class="c-btn type-1" href="#"><span>Get It Now</span></a>
+</div>
+</div>        </div>
+
+
+                <div class="top-line clearfix">
+          <div class="container">
+            <div class="top-line-left">
+              <div class="top-line-entry">
+                <ul class="top-menu">                  
+                  <li id="menu-item-1414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1414"><a href="http://themebubble.com/demo/magplus/">Home</a></li>
+<li id="menu-item-1415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1415"><a href="#">About</a></li>
+<li id="menu-item-1416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1416"><a href="http://themebubble.com/demo/magplus/contact/">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+
+
+            <div class="top-line-right">
+              <div class="top-line-entry">
+                <ul class="top-social">
+                  <li><a href="#"><i class="fa fa-facebook"></i></a></li><li><a href="#"><i class="fa fa-twitter"></i></a></li><li><a href="#"><i class="fa fa-instagram"></i></a></li><li><a href="#"><i class="fa fa-pinterest"></i></a></li><li><a href="#"><i class="fa fa-google-plus"></i></a></li> 
+                </ul>
+              </div>                                
+            </div>
+
+
+
+
+          </div>
+        </div>
+        
+
+      </div>
+    </div>
+  </div>
+</header>
+<div class="tt-header-height tt-header-margin"></div>  <div class="tt-heading title-wrapper tt-parallax-on background-block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1 class="tt-heading-title">Shop</h1>
+              </div>
+    </div>
+  </div>
+</div>
+
+<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><nav class="woocommerce-breadcrumb"><a href="http://themebubble.com/demo/magplus">Home</a>&nbsp;&#47;&nbsp;Shop</nav>
+<section class="main-content">
+<div class="empty-space  marg-lg-b100 marg-sm-b50 marg-xs-b30"></div>
+  <div class="container">
+      <div class="row">
+  	<div class="col-md-12">
+      <div class="page-content">
+        
+        
+          <div class="woocommerce-notices-wrapper">
+	<div class="woocommerce-message" role="alert">
+		<a href="http://themebubble.com/demo/magplus/cart/" tabindex="1" class="button wc-forward">View cart</a> &ldquo;Woo Ninja&rdquo; has been added to your cart.	</div>
+	<div class="woocommerce-message" role="alert">
+		<a href="http://themebubble.com/demo/magplus/cart/" tabindex="1" class="button wc-forward">View cart</a> &ldquo;Woo Ninja&rdquo; has been added to your cart.	</div>
+</div><p class="woocommerce-result-count">
+	Showing 1&ndash;8 of 9 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="add-to-cart" value="47" /></form>
+
+          <div class="clear"></div>
+<div class="tt-products">
+<div class="row">
+
+            
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-70 product type-product status-publish has-post-thumbnail product_cat-posters first instock sale shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/flying-ninja/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/14-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/14-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/14-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/14-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/14-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=70" data-quantity="1" data-product_id="70" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/flying-ninja/">Flying Ninja</a></h2>
+
+  
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span></ins></span>
+</a><a rel="nofollow" href="?add-to-cart=70" data-quantity="1" data-product_id="70" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-53 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-hoodies  instock shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/happy-ninja-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    <img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/7-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/7-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/7-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/7-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/7-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=53" data-quantity="1" data-product_id="53" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/happy-ninja-2/">Happy Ninja</a></h2>
+
+  
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>35.00</span></span>
+</a><a rel="nofollow" href="?add-to-cart=53" data-quantity="1" data-product_id="53" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-56 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-hoodies  instock shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/ninja-silhouette-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    <img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/11-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/11-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/11-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/11-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/11-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=56" data-quantity="1" data-product_id="56" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/ninja-silhouette-2/">Ninja Silhouette</a></h2>
+
+  
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>35.00</span></span>
+</a><a rel="nofollow" href="?add-to-cart=56" data-quantity="1" data-product_id="56" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-50 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-hoodies last instock shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/patient-ninja/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    <img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/4-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/4-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/4-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/4-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/4-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=50" data-quantity="1" data-product_id="50" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/patient-ninja/">Patient Ninja</a></h2>
+
+  
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>35.00</span></span>
+</a><a rel="nofollow" href="?add-to-cart=50" data-quantity="1" data-product_id="50" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-67 product type-product status-publish has-post-thumbnail product_cat-posters first instock shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/ship-your-idea-3/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    <img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/9-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/9-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/9-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/9-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/9-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=67" data-quantity="1" data-product_id="67" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/ship-your-idea-3/">Ship Your Idea</a></h2>
+
+  
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</span></span>
+</a><a rel="nofollow" href="?add-to-cart=67" data-quantity="1" data-product_id="67" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-15 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-t-shirts  instock sale shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/woo-logo/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/13-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/13-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/13-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/13-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/13-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=15" data-quantity="1" data-product_id="15" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/woo-logo/">Woo Logo</a></h2>
+
+  
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</span></ins></span>
+</a><a rel="nofollow" href="?add-to-cart=15" data-quantity="1" data-product_id="15" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-47 product type-product status-publish has-post-thumbnail product_cat-clothing product_cat-hoodies  instock shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/woo-ninja-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    <img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/12-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/12-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/12-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/12-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2017/08/12-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=47" data-quantity="1" data-product_id="47" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/woo-ninja-2/">Woo Ninja</a></h2>
+
+  
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>35.00</span></span>
+</a><a rel="nofollow" href="?add-to-cart=47" data-quantity="1" data-product_id="47" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+              <div class="col-md-3 col-sm-6 tt-shop-product mb-0 text-center post-76 product type-product status-publish has-post-thumbnail product_cat-posters last instock shipping-taxable purchasable product-type-simple">
+  <div class="tt-product">
+  <a href="http://themebubble.com/demo/magplus/product/woo-ninja-3/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+  <figure class="tt-single-product">
+    <img width="300" height="300" src="http://themebubble.com/demo/magplus/wp-content/uploads/2013/06/302422767_653-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://themebubble.com/demo/magplus/wp-content/uploads/2013/06/302422767_653-1-300x300.jpg 300w, http://themebubble.com/demo/magplus/wp-content/uploads/2013/06/302422767_653-1-150x150.jpg 150w, http://themebubble.com/demo/magplus/wp-content/uploads/2013/06/302422767_653-1-80x80.jpg 80w, http://themebubble.com/demo/magplus/wp-content/uploads/2013/06/302422767_653-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />
+  <div class="overlay">
+    <div class="overlay-inner">
+      <a rel="nofollow" href="?add-to-cart=76" data-quantity="1" data-product_id="76" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>                      
+    </div><!-- /overlay-inner -->
+  </div>
+    </figure>
+
+  </div>
+
+  <h2 class="woocommerce-loop-product__title"><a href="http://themebubble.com/demo/magplus/product/woo-ninja-3/">Woo Ninja</a></h2>
+
+  
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</span></span>
+</a><a rel="nofollow" href="?add-to-cart=76" data-quantity="1" data-product_id="76" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart c-btn type-2 size-1">Add to cart</a>  <div class="clear"></div>
+</div>
+
+            
+          </div><!-- /row -->
+</div><!-- /products -->
+          
+<div class="woo-pagination text-center">
+	<span aria-current="page" class="page-numbers current">1</span><a class="page-numbers" href="http://themebubble.com/demo/magplus/shop/page/2/">2</a><a class="next page-numbers" href="http://themebubble.com/demo/magplus/shop/page/2/">&rarr;</a></div>
+
+
+                
+      </div>
+    	</div>
+</div>
+  </div>
+</section>
+
+<div class="empty-space  marg-lg-b100 marg-sm-b50 marg-xs-b30"></div>
+
+</main></div>
+
+
+
+
+
+
+<div class="tt-footer tt-trending-slider-post">
+
+
+  <div class="container">
+      
+    <div class="tt-title-block style1 dark">
+      <h3 class="tt-title-text">Trending & Hot</h3>
+    </div>
+    <div class="empty-space marg-lg-b25"></div> 
+
+    <div class="tt-custom-arrows tt-footer-post-slider text-center tt-swiper-margin">
+      <div class="swiper-container" data-autoplay="5000" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="3" data-lg-slides="4" data-add-slides="4">
+          <div class="swiper-wrapper clearfix">
+
+                        <div class="swiper-slide active" data-val="0">
+              <div class="tt-swiper-margin-entry">
+                <div class="tt-post type-5 dark">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/fitness-what-it-takes-to-tackle-the-tour-de-france/">
+      <img width="290" height="162" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/nigel-tadyanehondo-199310-290x162.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info text-left">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/fitness-what-it-takes-to-tackle-the-tour-de-france/"><small>Fitness: What it takes to tackle the Tour de France</small></a>
+                        <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/blog/category/orange/" rel="category tag">Orange</a></div>
+                    </div>
+                </div>                                        
+              </div>                             
+            </div>
+                        <div class="swiper-slide" data-val="1">
+              <div class="tt-swiper-margin-entry">
+                <div class="tt-post type-5 dark">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/fashion-just-had-its-most-racially-diverse-season-ever-according-to-a-new-report/">
+      <img width="290" height="162" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/03/brooke-lark-275181-290x162.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info text-left">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/fashion-just-had-its-most-racially-diverse-season-ever-according-to-a-new-report/"><small>Food Trends &#038; More to Follow</small></a>
+                        <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/blog/category/blue/" rel="category tag">Blue</a>, <a href="http://themebubble.com/demo/magplus/blog/category/featured/" rel="category tag">Featured</a>, <a href="http://themebubble.com/demo/magplus/blog/category/red/" rel="category tag">Red</a></div>
+                    </div>
+                </div>                                        
+              </div>                             
+            </div>
+                        <div class="swiper-slide" data-val="2">
+              <div class="tt-swiper-margin-entry">
+                <div class="tt-post type-5 dark">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/nokia-regrets-health-app-backlash/">
+      <img width="290" height="162" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/joshua-peacock-262062-290x162.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info text-left">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/nokia-regrets-health-app-backlash/"><small>Nokia &#8216;regrets&#8217; health app backlash</small></a>
+                        <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/blog/category/featured/" rel="category tag">Featured</a>, <a href="http://themebubble.com/demo/magplus/blog/category/orange/" rel="category tag">Orange</a></div>
+                    </div>
+                </div>                                        
+              </div>                             
+            </div>
+                        <div class="swiper-slide" data-val="3">
+              <div class="tt-swiper-margin-entry">
+                <div class="tt-post type-5 dark">
+                            <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/volkswagen-beetle-car-review/">
+            <span class="tt-post-icon"><i class="material-icons">filter_none</i></span>
+            <img width="290" height="162" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/03/maxresdefault-290x162.jpg" class="img-responsive wp-post-image" alt="" />          </a>
+                          <div class="tt-post-info text-left">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/volkswagen-beetle-car-review/"><small>10 Things you shouldn&#8217;t do this Fall</small></a>
+                        <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/blog/category/red/" rel="category tag">Red</a></div>
+                    </div>
+                </div>                                        
+              </div>                             
+            </div>
+                        <div class="swiper-slide" data-val="4">
+              <div class="tt-swiper-margin-entry">
+                <div class="tt-post type-5 dark">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/blog/what-if-all-journalists-wrote-like-tech-journalists/">
+      <img width="290" height="162" src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/07/matthew-brodeur-214575-1-290x162.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info text-left">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/blog/what-if-all-journalists-wrote-like-tech-journalists/"><small>What if all journalists wrote like tech journalists?</small></a>
+                        <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/blog/category/green/" rel="category tag">Green</a></div>
+                    </div>
+                </div>                                        
+              </div>                             
+            </div>
+            
+          </div>
+          <div class="pagination c-pagination pos-3 visible-xs-block visible-sm-block"></div>
+      </div>
+
+
+      <div class="custom-arrow-left c-arrow left size-2 style-2 pos-2 hidden-xs hidden-sm">
+          <i class="fa fa-chevron-left" aria-hidden="true"></i>
+      </div>
+      <div class="custom-arrow-right c-arrow right size-2 style-2 pos-2 hidden-xs hidden-sm">
+          <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </div>  
+
+
+
+    </div>                                     
+    <div class="empty-space marg-lg-b55 marg-sm-b50 marg-xs-b30"></div>
+  </div>
+
+  <div class="tt-footer-copy">
+    <div class="container">
+      Made with coffee &amp; love by ThemeBubble ©All rights reservd.    </div>
+  </div>
+
+</div>
+
+</div>
+</div>
+<!-- Custom Feeds for Instagram JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://themebubble.com/demo/magplus/wp-admin/admin-ajax.php";
+
+</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"http:\/\/themebubble.com\/demo\/magplus"}},{"@type":"ListItem","position":2,"item":{"name":"Shop","@id":"http:\/\/themebubble.com\/demo\/magplus\/shop\/"}}]}</script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='swiper-css'  href='http://themebubble.com/demo/magplus/wp-content/themes/magplus/css/idangerous.swiper.css?ver=5.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/themebubble.com\/demo\/magplus\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/demo\/magplus\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/demo\/magplus\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/demo\/magplus\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/demo\/magplus\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f76868f598d327a866753b0c196dd48c","fragment_name":"wc_fragments_f76868f598d327a866753b0c196dd48c","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var magplus_ajax = {"ajaxurl":"http:\/\/themebubble.com\/demo\/magplus\/wp-admin\/admin-ajax.php","siteurl":"http:\/\/themebubble.com\/demo\/magplus\/wp-content\/themes\/magplus","nonce":"72093de767"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/themes/magplus/js/global.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/themes/magplus/js/match.height.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/themes/magplus/js/jquery.formstone.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/themes/magplus/js/jquery.appear.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/themes/magplus/js/parallax.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","profile_error":"A mandatory field is not filled in","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/newsletter/subscription/validate.js?ver=6.7.9'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+</body>
+</html>

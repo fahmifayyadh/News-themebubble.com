@@ -1,0 +1,1401 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Save The People &#8211; Podcast Pro</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Podcast Pro &raquo; Feed" href="http://themebubble.com/demo/magplus/podcastpro/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Podcast Pro &raquo; Comments Feed" href="http://themebubble.com/demo/magplus/podcastpro/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Podcast Pro &raquo; Save The People Comments Feed" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/save-the-people/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/css/sb-instagram.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-includes/css/dist/block-library/theme.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='magplus-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700&#038;subset=latin%2Clatin-ext&#038;ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magplus-material-icon-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-theme-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/css/font-awesome.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ytv-playlist-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/css/ytv.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/css/woocommerce.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/css/bootstrap.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magplus-main-style-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/css/style.css?ver=5.3' type='text/css' media='all' />
+<style id='magplus-main-style-inline-css' type='text/css'>
+.tt-header .main-nav > ul > li:not(.mega) > ul > li > a:hover,
+      .tt-header .main-nav > ul > li:not(.mega) > ul > li > ul > li > a:hover,
+      .mega.type-2 ul.tt-mega-wrapper li>ul a:hover,
+      .tt-mega-list a:hover,.tt-s-popup-devider:after,
+      .tt-s-popup-close:hover:before,.tt-s-popup-close:hover:after,.tt-tab-wrapper.type-1 .tt-nav-tab-item:before,
+      .tt-pagination a:hover,.tt-pagination li.active a,.tt-thumb-popup-close:hover,.tt-video-popup-close:hover,
+      .c-btn.type-1.color-2:before,.c-btn.type-1.style-2.color-2, .page-numbers a:hover, .page-numbers li span.current,.tpl-progress .progress-bar, .c-pagination.color-2 .swiper-active-switch, .tt-comment-form .form-submit,
+      .woo-pagination span.current, .woo-pagination a:hover {
+        background: #abd46d;
+      }
+
+      .tt-header .main-nav > ul > li.active > a,
+      .tt-header .main-nav > ul > li:hover > a,.tt-s-popup-btn:hover,
+      .tt-header.color-2 .top-menu a:hover,.tt-header.color-2 .top-social a:hover,
+      .tt-s-popup-submit:hover .fa,.tt-mslide-label a:hover,
+      .tt-sponsor-title:hover,.tt-sponsor.type-2 .tt-sponsor-title:hover,
+      .tt-post-title:hover,.tt-post-label span a:hover,
+      .tt-post-bottom a:hover,.tt-post-bottom a:hover .fa,
+      .tt-post.light .tt-post-title:hover,.tt-blog-user-content a:hover,
+      .tt-blog-user.light .tt-blog-user-content a:hover,.simple-img-desc a:hover,
+      .tt-author-title:hover,.tt-author-social a:hover,.tt-blog-nav-title:hover,
+      .tt-comment-label a:hover,.tt-comment-reply:hover,
+      .tt-comment-reply:hover .fa,
+      .comment-reply-link:hover,
+      .comment-reply-link:hover .fa,
+      .comment-edit-link:hover,.tt-search-submit:hover,.tt-news-title:hover,
+      .tt-mblock-title:hover,.tt-mblock-label a:hover,.simple-text a,
+      .c-btn.type-1.style-2.color-2:hover,.c-btn.type-2:hover,.c-btn.type-3.color-2:hover,
+      .c-btn.type-3.color-3, .sidebar-item.widget_recent_posts_entries .tt-post.dark .tt-post-title:hover, .tt-post-cat a:hover, .sidebar-item.widget ul li a:hover, .tt-small-blog-slider .tt-h4-title a:hover, .tt-comment-form .form-submit:hover {
+        color: #abd46d;
+      }
+
+      .c-pagination.color-2 .swiper-pagination-switch,
+      .c-pagination.color-2 .swiper-active-switch,.tt-search input[type="text"]:focus,
+      #loader,.c-btn.type-1.color-2,.c-input:focus,.c-btn.type-3.color-2:hover,.c-area:focus, .tt-title-text,
+      .c-pagination.color-2 .swiper-pagination-switch, .tt-comment-form .form-submit, .custom-arrow-left.tt-swiper-arrow-3:hover, .custom-arrow-right.tt-swiper-arrow-3:hover {
+        border-color: #abd46d;
+      }.woocommerce .onsale, .woocommerce-page .onsale,
+      .ajax_add_to_cart.c-btn.type-2,
+      .product_type_variable.add_to_cart_button.c-btn.type-2, .tt-custom-pagination .current,
+      .price_slider_amount button[type="submit"],
+      .widget_price_filter .ui-slider .ui-slider-handle,
+      .widget_shopping_cart .buttons .checkout,
+      .woocommerce-form-login input[type="submit"],
+      .woocommerce .shop_table .button[name="apply_coupon"], 
+      .woocommerce-page .shop_table .button[name="apply_coupon"], 
+      .single_add_to_cart_button,
+      .woocommerce .shop_table .button[name="update_cart"], .woocommerce-page .shop_table .button[name="update_cart"],
+      .woocommerce #payment .button, .woocommerce-page #payment .button, .woocommerce-page .wc-proceed-to-checkout .button {
+        background: #abd46d !important;
+      }
+
+      .ajax_add_to_cart.c-btn.type-2:hover, 
+      .product_type_variable.add_to_cart_button.c-btn.type-2:hover,
+      .widget_shopping_cart .buttons .checkout:hover,
+      .price_slider_amount button[type="submit"]:hover,
+      .woocommerce .wc-proceed-to-checkout .button:hover,
+      .woocommerce .shop_table .button:hover,
+      .woocommerce .single_add_to_cart_button.button:hover,
+      .woocommerce-page .wc-proceed-to-checkout .button:hover,
+      .woocommerce-page .shop_table .button:hover,
+      .woocommerce-page .single_add_to_cart_button.button:hover,
+      .woocommerce .shop_table .button[name="update_cart"]:hover,
+      .woocommerce-page .shop_table .button[name="update_cart"]:hover,
+      .woocommerce #payment .button:hover, .woocommerce-page #payment .button:hover {
+        background:rgba(171, 212, 109, 0.8) !important;
+      }.tt-header-type-5 .logo, .tt-header .logo {max-width:251px;height:45px;line-height:45px;}.tt-header .main-nav > ul > li:hover > a {background:#abd46d;}body.archive .tt-post-views {display:none !important;}@media (max-width:767px) {.tt-iframe.smallVid {display:block !important;}}.custom-font-properties-1000{font-size:20px;line-height:30px;font-weight:400;color:#333333 !important;}.custom-font-properties-1001{font-size:20px;line-height:30px;font-weight:400;color:#333333 !important;}.custom-font-properties-1002{font-size:20px;line-height:30px;font-weight:400;color:#333333 !important;}.custom-font-properties-1003{font-size:20px;line-height:30px;font-weight:400;color:#333333 !important;}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/newsletter/style.css?ver=6.7.9' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.4' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='redux-google-fonts-magplus_theme_options-css'  href='http://fonts.googleapis.com/css?family=PT+Serif%3A700%7CDroid+Serif%3A400&#038;subset=latin&#038;ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/demo\/magplus\/podcastpro\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/demo\/magplus\/podcastpro\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/themebubble.com\/demo\/magplus\/podcastpro","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.3.0'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.0.4'></script>
+<link rel='https://api.w.org/' href='http://themebubble.com/demo/magplus/podcastpro/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themebubble.com/demo/magplus/podcastpro/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themebubble.com/demo/magplus/podcastpro/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Still Processing' href='http://themebubble.com/demo/magplus/podcastpro/2017/07/08/still-processing/' />
+<link rel='next' title='Bill Simmons' href='http://themebubble.com/demo/magplus/podcastpro/2017/07/08/bill-simmons/' />
+<meta name="generator" content="WordPress 5.4.2" />
+<meta name="generator" content="WooCommerce 4.3.0" />
+<link rel="canonical" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/save-the-people/" />
+<link rel='shortlink' href='http://themebubble.com/demo/magplus/podcastpro/?p=430' />
+    <meta property="og:image" content="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/pod-save-the-people-394x218.jpg"/>
+    <meta name="twitter:image:src" content="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/pod-save-the-people-394x218.jpg">
+  	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" title="dynamic-css" class="options-output">.tt-header .main-nav > ul > li.active > a, .tt-header .main-nav > ul > li:hover > a, .tt-s-popup-btn:hover, .tt-header .cmn-mobile-switch:hover:before, .tt-header .cmn-mobile-switch:hover:after, .tt-header .cmn-mobile-switch:hover span{color:#ffffff;}.tt-header .main-nav > ul > li > a:hover, .tt-header-type-4 .main-nav > ul > li.active > a{background:#abd46d;}.tt-header-style-link .main-nav > ul > li > a:after, .tt-header-type-5 .main-nav > ul > li > a:after{background:#abd46d;}.tt-header .cmn-mobile-switch:hover span, .tt-header .cmn-mobile-switch:hover::before, .tt-header .cmn-mobile-switch:hover::after{background:#abd46d;}.tt-s-popup-btn:hover, .tt-header-type-7 .tt-s-popup-btn:hover, .tt-header-type-3 .tt-s-popup-btn:hover{color:#abd46d;}.sidebar-heading-style2 .tt-title-text, .sidebar-heading-style4 .tt-title-block, .sidebar-heading-style5 .tt-title-block, .sidebar-heading-style3 .tt-title-block{border-color:#eaeaea;}.sidebar-heading-style2 .tt-title-block:after, .sidebar-heading-style1 .tt-title-text:before, .sidebar-heading-style1 .tt-title-text:after, .sidebar-heading-style6 .tt-title-text:before, .sidebar-heading-style6 .tt-title-text:after{background:#eaeaea;}.sidebar-heading-style4 .tt-title-text, .sidebar-heading-style5 .tt-title-text, .sidebar-heading-style3 .tt-title-block, .sidebar-heading-style6 .tt-title-text{background:transparent;}.sidebar-heading-style5 .tt-title-text:after{border-left-color:transparent;}.sidebar-heading-style4 .tt-title-text, .sidebar-heading-style5 .tt-title-text, .sidebar-heading-style1 .tt-title-text, .sidebar-heading-style2 .tt-title-text, .sidebar-heading-style3 .tt-title-text, .sidebar-heading-style6 .tt-title-text{color:#111111;}#loading-text,
+      .simple-text h1,
+      .c-h1,.simple-text h2,
+      .c-h2,.simple-text h3,.c-h3,.simple-text h4,.c-h4,.simple-text h5,.c-h5,.simple-text h6,
+      .c-h6,.simple-text.font-poppins,.c-btn.type-1,.c-btn.type-2,.c-btn.type-3,.c-input,
+      .tt-mobile-nav > ul > li > a,.tt-mobile-nav > ul > li > ul > li > a,
+      .tt-header .main-nav > ul > li:not(.mega) > ul > li > a,.tt-mega-list a,.tt-s-popup-title,
+      .tt-title-text,.tt-title-block-2,
+      .comment-reply-title,.tt-tab-wrapper.type-1 .tt-nav-tab-item,
+      .tt-f-list a,.tt-footer-copy,.tt-pagination a,.tt-blog-user-content,.tt-author-title,.tt-blog-nav-label,
+      .tt-blog-nav-title,.tt-comment-label,.tt-search input[type="text"],.tt-share-title,.tt-mblock-label, .page-numbers a,.page-numbers span, .footer_widget.widget_nav_menu li a, .tt-h1-title, .tt-h4-title, .tt-h2-title, .shortcode-4 .tt-title-slider a, .footer_widget .tt-title-block.type-2 .tt-title-text, .footer_widget .tt-newsletter-title.c-h4 small{font-family:"PT Serif";font-weight:700;font-style:normal;}body, .tt-title-ul, .simple-text.title-droid h1,
+      .simple-text.title-droid h2,
+      .simple-text.title-droid h3,
+      .simple-text.title-droid h4,
+      .simple-text.title-droid h5,
+      .simple-text.title-droid h6,
+      .tt-tab-wrapper.tt-blog-tab .tt-nav-tab .tt-nav-tab-item,
+      .tt-header .main-nav,
+      .tt-header .top-menu a,
+      .tt-post-bottom,
+      .tt-post-label,
+      .tt-s-popup-field input[type="text"],
+      .tt-slide-2-title span,input,
+      textarea,.tt-post-cat, .tt-slider-custom-marg .c-btn.type-3,.tt-mslide-label,
+      select, .tt-post-breaking-news .tt-breaking-title, .sidebar-item.widget_recent_posts_entries .tt-post.dark .tt-post-cat,.shortcode-4 .simple-text, .woocommerce-result-count{font-family:"Droid Serif";font-weight:400;font-style:normal;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  </head>
+  <body class="post-template-default single single-post postid-430 single-format-audio wp-embed-responsive theme-magplus woocommerce-no-js  full-page header-style8 tt-top-header-enable tt-header-sticky wpb-js-composer js-comp-ver-6.0.4 vc_responsive elementor-default">
+
+  <div id="wrapper">
+
+      <div id="loader-wrapper">
+      <div id="loader"></div>
+      <div id="loading-text">LOADING</div>
+    </div>
+        <div class="tt-mobile-block">
+        <div class="tt-mobile-close"></div>
+                <nav class="tt-mobile-nav">
+          <ul id="side-header-nav" class="side-menu"><li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-499"><a href="http://themebubble.com/demo/magplus/podcastpro/">Home</a></li>
+<li id="menu-item-500" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-500"><a href="http://themebubble.com/demo/magplus/podcastpro/category/podcast/">Podcast</a></li>
+<li id="menu-item-501" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-501"><a href="http://themebubble.com/demo/magplus/podcastpro/category/growth-hack/">Growth Hack</a></li>
+<li id="menu-item-502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-502"><a href="http://themebubble.com/demo/magplus/podcastpro/category/tech/">Tech</a></li>
+<li id="menu-item-503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-503"><a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/">Morning Show</a></li>
+<li id="menu-item-504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-504"><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/">Life Hack</a></li>
+<li id="menu-item-505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-505"><a href="http://themebubble.com/demo/magplus/contact/">Contact</a></li>
+</ul>        </nav>
+    </div>
+    <div class="tt-mobile-overlay"></div>
+        <div class="tt-s-popup">
+      <div class="tt-s-popup-overlay"></div>
+      <div class="tt-s-popup-content">
+        <div class="tt-s-popup-layer"></div>
+        <div class="tt-s-popup-container">
+          <form action="http://themebubble.com/demo/magplus/podcastpro/" method="get" class="tt-s-popup-form">
+            <div class="tt-s-popup-field">
+              <input type="text" id="s" name="s" value="" placeholder="Type to search" class="input" required>
+              <div class="tt-s-popup-devider"></div>
+              <h3 class="tt-s-popup-title">Type to search</h3>     
+            </div>
+            <a href="#" class="tt-s-popup-close"></a>
+          </form> 
+        </div>
+      </div>
+    </div>
+        <div class="tt-video-popup">
+      <div class="tt-video-popup-overlay"></div>
+      <div class="tt-video-popup-content">
+        <div class="tt-video-popup-layer"></div>
+        <div class="tt-video-popup-container">
+          <div class="tt-video-popup-align">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="about:blank"></iframe>
+            </div>
+          </div>
+          <div class="tt-video-popup-close"></div>
+        </div>
+      </div>
+    </div> 
+
+    <div class="tt-thumb-popup">
+      <div class="tt-thumb-popup-overlay"></div>
+      <div class="tt-thumb-popup-content">
+        <div class="tt-thumb-popup-layer"></div>
+        <div class="tt-thumb-popup-container">
+          <div class="tt-thumb-popup-align">
+            <img class="tt-thumb-popup-img img-responsive" src="about:blank" alt="">
+          </div>
+          <div class="tt-thumb-popup-close"></div>
+        </div>
+      </div>
+    </div>  
+  
+  <div id="content-wrapper">
+  <header class="tt-header tt-header-type-5  full-page">
+  <div class="tt-header-wrapper">
+    <div class="top-inner clearfix">
+      <div class="container">
+        
+    <a href="http://themebubble.com/demo/magplus/podcastpro/" class="logo tt-logo-1x"><img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/Group-11.png" alt="Podcast Pro" width="251"  height="45"></a>
+            
+    <a href="http://themebubble.com/demo/magplus/podcastpro/" class="logo tt-logo-2x"><img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/Group-11-1.png" alt="Podcast Pro" width="251"  height="45" style="max-height:45px; height:auto;"></a>
+                    <div class="cmn-toggle-switch"><span></span></div>
+        <div class="cmn-mobile-switch"><span></span></div>
+        <a class="tt-s-popup-btn"><i class="fa fa-search" aria-hidden="true"></i></a>
+      </div>
+    </div>
+    <div class="toggle-block">
+      <div class="toggle-block-container">
+        <nav class="main-nav clearfix">
+          <ul id="nav" class="menu"><li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-498"><a href="http://themebubble.com/demo/magplus/podcastpro/">Home</a></li><li id="menu-item-492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-492 parent mega  parent"><a href="#">Mega Menu<i class="menu-toggle fa fa-angle-down"></i></a>    <div class="tt-mega-wrapper clearfix">
+      <ul class="tt-mega-list">
+      <li class=" active"><a href="http://themebubble.com/demo/magplus/podcastpro/category/growth-hack/">Growth Hack</a></li><li class=""><a href="http://themebubble.com/demo/magplus/podcastpro/category/tech/">Tech</a></li><li class=""><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/">Life Hack</a></li><li class=""><a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/">Morning Show</a></li>      </ul>
+      <div class="tt-mega-content">
+                <div class="tt-mega-entry  active">
+          <div class="row">
+
+                          <div class="col-sm-3 post-446 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/bad-dog/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/derek-owens-284620-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/bad-dog/">Bad Dog</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-447 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/covfefe-one-sparkle-pipes/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/alice-moore-192521-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/covfefe-one-sparkle-pipes/">Covfefe-one &#8211; Sparkle Pipes</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-448 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/doug-on-the-drums/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/william-iven-11246-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/doug-on-the-drums/">Doug on the Drums</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-444 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/we-love-edm-and-fancy-cars/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/igor-miske-174209-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/we-love-edm-and-fancy-cars/">We love EDM and Fancy Cars!</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+                <div class="tt-mega-entry ">
+          <div class="row">
+
+                          <div class="col-sm-3 post-446 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/bad-dog/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/derek-owens-284620-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/bad-dog/">Bad Dog</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-447 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/covfefe-one-sparkle-pipes/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/alice-moore-192521-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/covfefe-one-sparkle-pipes/">Covfefe-one &#8211; Sparkle Pipes</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-448 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/doug-on-the-drums/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/william-iven-11246-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/doug-on-the-drums/">Doug on the Drums</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-444 post type-post status-publish format-standard has-post-thumbnail hentry category-growth-hack category-tech tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/we-love-edm-and-fancy-cars/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/igor-miske-174209-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/we-love-edm-and-fancy-cars/">We love EDM and Fancy Cars!</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+                <div class="tt-mega-entry ">
+          <div class="row">
+
+                          <div class="col-sm-3 post-454 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">Genetics Banter</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-455 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">Ellen&#8217;s Degenerates</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-456 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">The Christmas Episode</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-452 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/">The One Where We Lose Our Sponsor</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+                <div class="tt-mega-entry ">
+          <div class="row">
+
+                          <div class="col-sm-3 post-454 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">Genetics Banter</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-455 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">Ellen&#8217;s Degenerates</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-456 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">The Christmas Episode</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                          <div class="col-sm-3 post-452 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion"> 
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                        <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/">The One Where We Lose Our Sponsor</a>
+                          <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div>                 
+              </div>
+                      </div>
+        </div>
+              </div>
+    </div>
+  </li><li id="menu-item-465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-465"><a href="http://themebubble.com/demo/magplus/podcastpro/category/growth-hack/">Growth Hack</a></li><li id="menu-item-466" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-466"><a href="http://themebubble.com/demo/magplus/podcastpro/category/tech/">Tech</a></li><li id="menu-item-467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-467"><a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/">Morning Show</a></li><li id="menu-item-496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-496"><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/">Life Hack</a></li><li id="menu-item-497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497"><a href="http://themebubble.com/demo/magplus/contact/">Contact</a></li></ul>        </nav>
+
+                <div class="top-line clearfix">
+          <div class="container">
+            <div class="top-line-left">
+              <div class="top-line-entry">
+                <ul class="top-menu">
+                  <li id="menu-item-479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-479"><a href="#">Advertise</a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480"><a href="#">License</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="top-line-right">
+              <div class="top-line-entry">
+                <ul class="top-social">
+                  <li><a href="#"><i class="fa fa-facebook"></i></a></li><li><a href="#"><i class="fa fa-twitter"></i></a></li><li><a href="#"><i class="fa fa-instagram"></i></a></li><li><a href="#"><i class="fa fa-pinterest"></i></a></li><li><a href="#"><i class="fa fa-google-plus"></i></a></li>                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</header>
+<div class="tt-header-height tt-header-margin-sm"></div>  
+
+<div class="tt-blog-head background-block " style="background-image:url(http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/pod-save-the-people.jpg);">
+  <div class="tt-blog-head-inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">                    
+          <div class="tt-blog-category text-center">
+                              <a class="c-btn type-3 color-2" href="http://themebubble.com/demo/magplus/podcastpro/category/podcast/">Podcast</a>
+                
+          </div>
+          <div class="tt-blog-tag">
+            <span><i class="fa fa-tags"></i>Tags: <a href="http://themebubble.com/demo/magplus/podcastpro/tag/classic/" rel="tag">Classic</a>, <a href="http://themebubble.com/demo/magplus/podcastpro/tag/fashion/" rel="tag">Fashion</a></span>          </div>
+          <div class="empty-space marg-lg-b10"></div>
+          <h1 class="c-h1 text-center">Save The People</h1>
+          <div class="empty-space marg-lg-b5"></div>
+
+          <!-- TT-BLOG-USER -->
+          <div class="  text-center">
+            <div class="tt-blog-user light clearfix">
+              <a class="tt-blog-user-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">
+                <img alt='' src='http://2.gravatar.com/avatar/578816ffce137858255eff793b54ce91?s=40&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/578816ffce137858255eff793b54ce91?s=80&#038;d=mm&#038;r=g 2x' class='tt-comment-form-ava avatar-40 photo' height='40' width='40' />              </a>
+              <div class="tt-blog-user-content">
+                <span class="tt-post-author-single"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                <span class="tt-post-date-single">July 8, 2017</span>
+              </div>
+            </div>                            
+          </div>                                
+        </div>                    
+      </div>
+    </div>
+  </div>
+</div>  
+
+                     
+
+<div class="container">
+    <div class="empty-space marg-lg-b35 marg-sm-b30"></div>
+
+      <div class="row">
+  	<div class="col-md-8 col-md-offset-2">
+
+    <div class="empty-space marg-lg-b10"></div>
+    <div class="empty-space marg-lg-b10"></div>
+
+      
+        <div class="tt-share position-2">
+          <h5 class="tt-share-title">Share</h5>
+          <ul class="tt-share-list">
+            <li><a class="tt-share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://themebubble.com/demo/magplus/podcastpro/2017/07/08/save-the-people/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a class="tt-share-twitter" href="https://twitter.com/home?status=http://themebubble.com/demo/magplus/podcastpro/2017/07/08/save-the-people/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a class="tt-share-pinterest" href="https://pinterest.com/pin/create/button/?url=&amp;media=http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/pod-save-the-people.jpg&amp;description=Save+The+People"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+            <li><a class="tt-share-google" href="https://plus.google.com/share?url=http://themebubble.com/demo/magplus/podcastpro/2017/07/08/save-the-people/"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+            <li><a class="tt-share-reddit" href="http://www.reddit.com/submit?url=http://themebubble.com/demo/magplus/podcastpro/2017/07/08/save-the-people/&amp;title="><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></li>
+            <li><a class="tt-share-mail" href="http://digg.com/submit?url=http://themebubble.com/demo/magplus/podcastpro/2017/07/08/save-the-people/&amp;title="><i class="fa fa-digg" aria-hidden="true"></i></a></li>
+          </ul>
+        </div>
+                              <div class="simple-text size-4 tt-content title-droid margin-big">
+          <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="sound-cloud-embed"><iframe height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302683451&#038;auto_play=false"></iframe></div><div  class="empty-space  marg-lg-b20"></div><div  class="special-text custom-font-properties-1000">When a top-down shooter like Nex Machina comes along, I’m reminded that even in this age of procedural open worlds and emergent storytelling, you don’t need a lot of buzzwords to have a good time. Its five stages of simple, fast, sometimes frantic bot-blasting can be daunting to the unprepared. But when I got a good run going, the responsive controls and exciting, sci-fi graphics made my frustrations with its sometimes nasty death penalty worth it.</div><div  class="empty-space  marg-lg-b20"></div><div  class="special-text custom-font-properties-1001">Each stage is divided up into rooms where you have to defeat several waves of robotic enemies, optionally saving defenseless humans to increase your score, before proceeding to the next. The baddies are both visually interesting and clever in their design, and every world introduces new ones so the combat never feels repetitive.</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="empty-space  marg-lg-b20"></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="special-text custom-font-properties-1002">Each stage is divided up into rooms where you have to defeat several waves of robotic enemies, optionally saving defenseless humans to increase your score, before proceeding to the next. The baddies are both visually interesting and clever in their design, and every world introduces new ones so the combat never feels repetitive.</div><div  class="empty-space  marg-lg-b20"></div><div class="simple-text"><blockquote  class="magplus-pro-quote"><p>“I think that&#8217;s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.”</p><footer><cite title="Elton Musk">Elton Musk</cite></footer></blockquote></div><div  class="special-text custom-font-properties-1003">Set in the J.J. Abrams Trek universe, Bridge Crew&#8217;s single-player campaign centers around the U.S.S. Aegis&#8211;which, after a brief training mission, sets forth on its task to help the Vulcans find a new home. This mission takes the Aegis into a Klingon-controlled territory, the Trench, and into the heart of a potentially ugly interstellar incident. You can fill one of four roles aboard the ship: the Captain issues orders to every other department from the holographic menu built into the player’s chair, the Helm puts you in the driver&#8217;s seat, Tactical handles shields and weaponry, and Engineering determines how much power gets shifted to the ship&#8217;s vital systems.</div><div  class="empty-space  marg-lg-b30"></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="tt-rating"><div class="tt-rating-progress"><div class="tt-progress-title">Plot </div><div class="tt-progress-number">9.5</div><div class="progress tpl-progress"><div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div></div><div class="tt-progress-title">Cinematography </div><div class="tt-progress-number">8.6</div><div class="progress tpl-progress"><div class="progress-bar" role="progressbar" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100"></div></div><div class="tt-progress-title">Direction </div><div class="tt-progress-number">8.3</div><div class="progress tpl-progress"><div class="progress-bar" role="progressbar" aria-valuenow="83" aria-valuemin="0" aria-valuemax="100"></div></div></div><div class="tt-rating-content"><div class="row"><div class="col-md-10 col-xs-12"><div class="tt-summary-title"><h4 class="c-h5">Summary</h4></div><div class="empty-space marg-lg-b5"></div><div class="tt-summary-text simple-text"><p>Despite the frustrations its upgrade system often caused me, I had a good time navigating Nex Machina’s array of twin-stick shooter challenges. </p></div></div><div class="col-md-2 text-right col-xs-12"><div class="empty-space marg-xs-b15"></div><div class="tt-rating-title"><h4 class="c-h5">Total Rating</h4></div><div class="empty-space marg-lg-b10"></div><div class="tt-rating-text">8.8</div></div></div></div></div></div></div></div></div>
+        </div>
+                                <div class="empty-space marg-lg-b30 marg-sm-b30"></div>
+      <span class="tt-tag-title">Tags:</span><ul class="tt-tags"><li><a href="http://themebubble.com/demo/magplus/podcastpro/tag/classic/" rel="tag">Classic</a></li><li><a href="http://themebubble.com/demo/magplus/podcastpro/tag/fashion/" rel="tag">Fashion</a></li></ul>            <div class="empty-space marg-lg-b50 marg-sm-b30"></div>
+
+                         
+      <!-- TT-AUTHOR -->
+            <div class="tt-devider"></div>
+      <div class="empty-space marg-lg-b60 marg-sm-b50 marg-xs-b30"></div>     
+      <div class="tt-author clearfix">
+        <a class="tt-author-img" href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">
+          <img alt='' src='http://2.gravatar.com/avatar/578816ffce137858255eff793b54ce91?s=90&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/578816ffce137858255eff793b54ce91?s=180&#038;d=mm&#038;r=g 2x' class='tt-comment-form-ava avatar-90 photo' height='90' width='90' />        </a>
+        <div class="tt-author-info">
+          <a class="tt-author-title" href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a>
+          <div class="simple-text font-poppins">
+            <p>Emellie Watson is a short story author, novelist, and award-winning poet. She loves to write. While not writing, she usually watches tv shows.</p>
+          </div>
+          <ul class="tt-author-social">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li><li><a href="#"><i class="fa fa-twitter"></i></a></li><li><a href="#"><i class="fa fa-instagram"></i></a></li><li><a href="#"><i class="fa fa-pinterest"></i></a></li><li><a href="#"><i class="fa fa-google-plus"></i></a></li> 1
+          </ul>
+        </div>
+      </div>
+      <div class="empty-space marg-lg-b55 marg-sm-b50 marg-xs-b30"></div>
+    
+      <!-- TT-NAV -->
+      
+    <!-- TT-NAV -->
+    <div class="row">
+
+            <div class="col-sm-6">
+        <div class="tt-blog-nav left">
+          <div class="tt-blog-nav-label">Previous Article</div>
+          <a class="tt-blog-nav-title" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/still-processing/" rel="prev">Still Processing</a> 
+        </div>
+        <div class="empty-space marg-xs-b20"></div>
+      </div>
+      
+            <div class="col-sm-6">
+        <div class="tt-blog-nav right">
+          <div class="tt-blog-nav-label">Next Article</div>
+          <a class="tt-blog-nav-title" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/bill-simmons/" rel="next">Bill Simmons</a>                                    
+        </div>
+      </div>
+          </div>
+
+    <div class="empty-space marg-lg-b55 marg-sm-b50 marg-xs-b30"></div>
+  
+      
+                <div class="tt-title-block">
+              <h3 class="tt-title-text">You Might also Like</h3>
+            </div>
+            <div class="empty-space marg-lg-b25"></div>
+            <div class="row">
+
+            
+              <div class="col-xs-6 col-sm-4 col-lg-3 post-454 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/"><small>Genetics Banter</small></a>
+                        <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div> 
+                <div class="empty-space marg-lg-b15"></div>                 
+              </div>
+              <div class="clearfix visible-md-block"></div>
+
+              
+              <div class="col-xs-6 col-sm-4 col-lg-3 post-455 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/"><small>Ellen&#8217;s Degenerates</small></a>
+                        <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div> 
+                <div class="empty-space marg-lg-b15"></div>                 
+              </div>
+              <div class="clearfix visible-md-block"></div>
+
+              
+              <div class="col-xs-6 col-sm-4 col-lg-3 post-456 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/"><small>The Christmas Episode</small></a>
+                        <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div> 
+                <div class="empty-space marg-lg-b15"></div>                 
+              </div>
+              <div class="clearfix visible-md-block"></div>
+
+              
+              <div class="col-xs-6 col-sm-4 col-lg-3 post-452 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+                <div class="tt-post type-3">
+                          <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/">
+      <img width="183" height="96" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-183x96.jpg" class="img-responsive wp-post-image" alt="" />    </a>
+                    <div class="tt-post-info">
+                    <a class="tt-post-title c-h5" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/"><small>The One Where We Lose Our Sponsor</small></a>
+                        <div class="tt-post-label">
+              <span class="tt-post-author-name"><a href="http://themebubble.com/demo/magplus/podcastpro/author/admin/">George Steven</a></span>
+                    <span class="tt-post-date">July 8, 2017</span>
+          </div>
+                    </div>
+                </div> 
+                <div class="empty-space marg-lg-b15"></div>                 
+              </div>
+              <div class="clearfix visible-md-block"></div>
+
+              
+            </div>
+            <div class="empty-space marg-lg-b40 marg-sm-b30"></div>
+            
+      <div class="tt-devider"></div>
+      <div class="empty-space marg-lg-b55 marg-sm-b50 marg-xs-b30"></div>
+
+      
+<!-- Comments -->
+<section class="coment-item">
+  <!--<section class="post-comment" id="comments">-->
+    
+  <!--</section>-->
+
+  <!-- Add Comment -->
+  <div class="tt-comment-form tt-comment-form clearfix">
+
+    	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/demo/magplus/podcastpro/2017/07/08/save-the-people/#respond" style="display:none;">Cancel Comment</a></small></h3><form action="http://themebubble.com/demo/magplus/podcastpro/wp-comments-post.php" method="post" id="commentform" class="comment-form"><div class="simple-text size-5 font-poppins color-3"><p>Your email address will not be published. Required fields are marked *</p>
+          <textarea name="comment" id="text"  aria-required='true' class="c-area type-2 form-white placeholder" rows="10" placeholder="Your Comment"></textarea>
+          
+                <div class="row"><div class="col-sm-6">
+                  <!-- Name -->
+                  <input type="text" name="author" id="name"  aria-required='true' class="c-input placeholder" placeholder="Name" maxlength="100">
+
+                <input type="email" name="email" id="email" placeholder="Email" class="c-input placeholder" maxlength="100">
+
+              <input type="text" name="url" id="website" placeholder="Website" class="c-input placeholder" maxlength="100"></div></div>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p></div>
+<p class="form-submit"><input name="submit" type="submit" id="comment_submit" class="" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='430' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	  
+
+  </div>
+  <!-- End Add Comment -->
+</section>
+<!--end of comments-->
+
+    	</div>
+</div>
+  
+  <div class="empty-space marg-lg-b80 marg-sm-b50 marg-xs-b30"></div>
+                
+</div>
+
+                <div class="tt-shortcode-1">
+
+
+              <div class="tt-title-block">
+                <h3 class="tt-title-text">Related Stories</h3>
+                <span class="tt-shortcode-1-close"></span>
+              </div>
+
+              <div class="container">
+                <div class="row">
+
+                                  <div class="col-md-3 col-sm-6 post-454 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+
+
+                    <div class="tt-post type-7 clearfix">
+                      
+                              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+                       
+                      <div class="tt-post-info">
+                        <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">Genetics Banter </a>
+                      </div>
+                    </div> 
+
+
+                  </div>
+                                  <div class="col-md-3 col-sm-6 post-455 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+
+
+                    <div class="tt-post type-7 clearfix">
+                      
+                              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+                       
+                      <div class="tt-post-info">
+                        <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">Ellen&#8217;s Degenerates </a>
+                      </div>
+                    </div> 
+
+
+                  </div>
+                                  <div class="col-md-3 col-sm-6 post-456 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+
+
+                    <div class="tt-post type-7 clearfix">
+                      
+                              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+                       
+                      <div class="tt-post-info">
+                        <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">The Christmas Episode </a>
+                      </div>
+                    </div> 
+
+
+                  </div>
+                                  <div class="col-md-3 col-sm-6 post-452 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+
+
+                    <div class="tt-post type-7 clearfix">
+                      
+                              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/stefan-stefancik-297983-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+                       
+                      <div class="tt-post-info">
+                        <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-one-where-we-lose-our-sponsor/">The One Where We Lose Our Sponsor </a>
+                      </div>
+                    </div> 
+
+
+                  </div>
+                
+
+                </div>
+              </div>  
+
+
+            </div>
+            
+
+<div class="tt-footer">
+  <div class="container">
+    <div class="row">
+            <div class="col-md-3 col-sm-6 col-1">
+                  <div id="text-1" class="widget tt-footer-list footer_widget widget_text">			<div class="textwidget"><div class="footer-logo">
+<img src="http://themebubble.com/demo/magplus/wp-content/uploads/2017/03/dark-logo.png">  
+</div>
+<div class="empty-space marg-lg-b20"></div></div>
+		</div><div id="social-media-1" class="widget tt-footer-list footer_widget widget_social_media">      <ul class="tt-f-social">
+             </ul>
+      </div>                <div class="empty-space marg-xs-b30"></div>
+      </div>
+          <div class="col-md-3 col-sm-6 col-2">
+                  <div id="instagram-feed-widget-2" class="widget tt-footer-list footer_widget widget_instagram-feed-widget"><h5 class="tt-title-block-2">Instagram</h5><div class="empty-space marg-lg-b20"></div>
+<div id="sb_instagram" class="sbi  sbi_mob_col_auto sbi_col_4  sbi_width_resp" style="width: 100%;" data-feedid="sbi_+PODCAST#8" data-res="full" data-cols="4" data-colsmobile="auto" data-num="8" data-nummobile="" data-shortcode-atts="{&quot;showheader&quot;:&quot;false&quot;,&quot;showfollow&quot;:&quot;false&quot;,&quot;showbio&quot;:&quot;false&quot;,&quot;showbutton&quot;:&quot;false&quot;,&quot;showcaption&quot;:&quot;false&quot;,&quot;showlikes&quot;:&quot;false&quot;,&quot;imagepadding&quot;:&quot;0&quot;,&quot;num&quot;:&quot;8&quot;,&quot;cols&quot;:&quot;4&quot;,&quot;imageres&quot;:&quot;full&quot;,&quot;type&quot;:&quot;hashtag&quot;,&quot;hashtag&quot;:&quot;podcast&quot;}"  data-options="{&quot;grid&quot;:true,&quot;avatars&quot;:[],&quot;lightboxcomments&quot;:20,&quot;colsmobile&quot;:&quot;auto&quot;,&quot;captionsize&quot;:13,&quot;captionlength&quot;:50}">
+	
+    <div id="sbi_images" >
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17860336685038697" data-date="1595713174" data-numcomments="15">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDFJlEOB9UQ/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 25</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/116022315_2572871549600214_5115499635961725833_n.jpg?_nc_cat=108&_nc_sid=8ae9d6&_nc_ohc=1VjmgzWnrCAAX_tSzVs&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=348935cb59e486e3851f713d5d8e06a5&oe=5F44A0E1" rel="nofollow noopener" data-lightbox-sbi="" data-title="🤔🤯 Hoy quiero animarte a reflexiones con la siguiente pregunta... Cuántas veces al día reniegas y te quejas por lo que no tienes y cuántas veces das gracias por las bendiciones que posees? 🙏🏻🙌🏻 Te invito a que escuches mi nuevo episodio “Acción de Gracias” Link en mi Bio 😉 También disponible en todas las plataformas de Podcasts 🎧#UnaPausaNecesaria #Podcast #AcciondeGracias #SerAgradecido #Reflexiones #God #SoledadSensini" data-video="" data-carousel="" data-id="sbi_17860336685038697" data-user="" data-url="https://www.instagram.com/p/CDFJlEOB9UQ/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDFJlEOB9UQ/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/116022315_2572871549600214_5115499635961725833_n.jpg?_nc_cat=108&#038;_nc_sid=8ae9d6&#038;_nc_ohc=1VjmgzWnrCAAX_tSzVs&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=348935cb59e486e3851f713d5d8e06a5&#038;oe=5F44A0E1" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/116022315_2572871549600214_5115499635961725833_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_ohc=1VjmgzWnrCAAX_tSzVs&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=348935cb59e486e3851f713d5d8e06a5&amp;oe=5F44A0E1&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDFJlEOB9UQ\/media?size=t&quot;,&quot;320&quot;:&quot;http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/uploads\/sites\/34\/sb-instagram-feed-images\/116022315_2572871549600214_5115499635961725833_nlow.jpg&quot;,&quot;640&quot;:&quot;http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/uploads\/sites\/34\/sb-instagram-feed-images\/116022315_2572871549600214_5115499635961725833_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">🤔🤯 Hoy quiero animarte a reflexiones con la </span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="🤔🤯 Hoy quiero animarte a reflexiones con la siguiente pregunta... Cuántas veces al día reniegas y te quejas por lo que no tienes y cuántas veces das gracias por las bendiciones que posees? 🙏🏻🙌🏻 Te invito a que escuches mi nuevo episodio “Acción de Gracias” Link en mi Bio 😉 También disponible en todas las plataformas de Podcasts 🎧#UnaPausaNecesaria #Podcast #AcciondeGracias #SerAgradecido #Reflexiones #God #SoledadSensini">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17880396700728729" data-date="1595790489" data-numcomments="7">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDHdDAzB3FZ/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 26</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/113204529_653084792082501_901954034771874412_n.jpg?_nc_cat=104&_nc_sid=8ae9d6&_nc_ohc=xfWqgsH4T7gAX-OKUO0&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=10ca1ef4efb2243d8d7cfacd894d1d98&oe=5F42E1AC" rel="nofollow noopener" data-lightbox-sbi="" data-title="Tell me something good that happened to you this weekend 🧡&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+#Nashville #photoshoot #DreamCatcherAdventure #podcast #DreamCatcher &lt;br&gt;
+ hair sweetmelissamidtown &lt;br&gt;
+makeup madebybeck87 &lt;br&gt;
+pants rocknbohoco &lt;br&gt;
+style amillionthingstowear &lt;br&gt;
+photo moncellallenproductions &lt;br&gt;
+vibe dreamcatcherpod &lt;br&gt;
+✨" data-video="" data-carousel="" data-id="sbi_17880396700728729" data-user="" data-url="https://www.instagram.com/p/CDHdDAzB3FZ/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDHdDAzB3FZ/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/113204529_653084792082501_901954034771874412_n.jpg?_nc_cat=104&#038;_nc_sid=8ae9d6&#038;_nc_ohc=xfWqgsH4T7gAX-OKUO0&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=10ca1ef4efb2243d8d7cfacd894d1d98&#038;oe=5F42E1AC" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/113204529_653084792082501_901954034771874412_n.jpg?_nc_cat=104&amp;_nc_sid=8ae9d6&amp;_nc_ohc=xfWqgsH4T7gAX-OKUO0&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=10ca1ef4efb2243d8d7cfacd894d1d98&amp;oe=5F42E1AC&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDHdDAzB3FZ\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CDHdDAzB3FZ\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/113204529_653084792082501_901954034771874412_n.jpg?_nc_cat=104&amp;_nc_sid=8ae9d6&amp;_nc_ohc=xfWqgsH4T7gAX-OKUO0&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=10ca1ef4efb2243d8d7cfacd894d1d98&amp;oe=5F42E1AC&quot;}">
+            <span class="sbi-screenreader">Tell me something good that happened to you this w</span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="Tell me something good that happened to you this weekend 🧡
+.
+.
+.
+#Nashville #photoshoot #DreamCatcherAdventure #podcast #DreamCatcher 
+ hair sweetmelissamidtown 
+makeup madebybeck87 
+pants rocknbohoco 
+style amillionthingstowear 
+photo moncellallenproductions 
+vibe dreamcatcherpod 
+✨">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17884916263640881" data-date="1595792431" data-numcomments="9">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDHgv_osnEC/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 26</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/115740452_604569323578588_7220911176236815154_n.jpg?_nc_cat=108&_nc_sid=8ae9d6&_nc_ohc=DJMntQeoOjUAX8M1N56&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=134e783ad466a8d6e428c222257f508f&oe=5F425AA4" rel="nofollow noopener" data-lightbox-sbi="" data-title="SUNDAY FEELS 🦋 &lt;br&gt;
+“Your dreams are being influenced by YOU in the night so why are you letting your dreams be influenced by others in the day” &lt;br&gt;
+frazerbrookesonline - getting huge value from his podcasts!" data-video="" data-carousel="" data-id="sbi_17884916263640881" data-user="" data-url="https://www.instagram.com/p/CDHgv_osnEC/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDHgv_osnEC/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/115740452_604569323578588_7220911176236815154_n.jpg?_nc_cat=108&#038;_nc_sid=8ae9d6&#038;_nc_ohc=DJMntQeoOjUAX8M1N56&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=134e783ad466a8d6e428c222257f508f&#038;oe=5F425AA4" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/115740452_604569323578588_7220911176236815154_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_ohc=DJMntQeoOjUAX8M1N56&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=134e783ad466a8d6e428c222257f508f&amp;oe=5F425AA4&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDHgv_osnEC\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CDHgv_osnEC\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/115740452_604569323578588_7220911176236815154_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_ohc=DJMntQeoOjUAX8M1N56&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=134e783ad466a8d6e428c222257f508f&amp;oe=5F425AA4&quot;}">
+            <span class="sbi-screenreader">SUNDAY FEELS 🦋 
+“Your dreams are being influe</span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="SUNDAY FEELS 🦋 
+“Your dreams are being influenced by YOU in the night so why are you letting your dreams be influenced by others in the day” 
+frazerbrookesonline - getting huge value from his podcasts!">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17876905522752045" data-date="1595759781" data-numcomments="6">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDGieg_JnXi/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 26</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/116110347_1181051802295693_3324780718915606625_n.jpg?_nc_cat=107&_nc_sid=8ae9d6&_nc_ohc=c_AE2xTb9VsAX--xPYc&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=6783a5b1e486d429736c0ec54e04aff9&oe=5F4308E9" rel="nofollow noopener" data-lightbox-sbi="" data-title="We just realized we didn’t formally introduce our newest co-host!😅&lt;br&gt;
+&lt;br&gt;
+Latoya aka “Tight Krio Stew” tight_krio_stew, is an entrepreneur (Toya’s Creations, Leone Luxe and Latoya’s Enterprise), culinary aficionado, food blogger and a former singer (get back in the studio for the fans, “na lie u lie”) all wrapped in one. She’s free spirited, opinionated, loves travelling and takes banging pics as if she was born for the paparazzi lifestyle. &lt;br&gt;
+&lt;br&gt;
+Latoya’s also a law graduate who has taken a gap year before she does her bar exams.  She is the loving mother to 5 dogs; Tiger, Lily, Olivia, Patch and Blue. &lt;br&gt;
+&lt;br&gt;
+We think she’s a great addition to the podcast ! What do you guys think ?&lt;br&gt;
+&lt;br&gt;
+#TooMuchPlasas #salone #freetown #sierraleone #podcast #africa #youngafrica #young #life #sweetsalone #switsalone #freetong  #plasasandpoyo&lt;br&gt;
+&lt;br&gt;
+#TooMuchPlasas&lt;br&gt;
+#PlasasandPoyoSundays" data-video="" data-carousel="" data-id="sbi_17876905522752045" data-user="" data-url="https://www.instagram.com/p/CDGieg_JnXi/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDGieg_JnXi/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/116110347_1181051802295693_3324780718915606625_n.jpg?_nc_cat=107&#038;_nc_sid=8ae9d6&#038;_nc_ohc=c_AE2xTb9VsAX--xPYc&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=6783a5b1e486d429736c0ec54e04aff9&#038;oe=5F4308E9" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/116110347_1181051802295693_3324780718915606625_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_ohc=c_AE2xTb9VsAX--xPYc&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=6783a5b1e486d429736c0ec54e04aff9&amp;oe=5F4308E9&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDGieg_JnXi\/media?size=t&quot;,&quot;320&quot;:&quot;http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/uploads\/sites\/34\/sb-instagram-feed-images\/116110347_1181051802295693_3324780718915606625_nlow.jpg&quot;,&quot;640&quot;:&quot;http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/uploads\/sites\/34\/sb-instagram-feed-images\/116110347_1181051802295693_3324780718915606625_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">We just realized we didn’t formally introduce ou</span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="We just realized we didn’t formally introduce our newest co-host!😅
+
+Latoya aka “Tight Krio Stew” tight_krio_stew, is an entrepreneur (Toya’s Creations, Leone Luxe and Latoya’s Enterprise), culinary aficionado, food blogger and a former singer (get back in the studio for the fans, “na lie u lie”) all wrapped in one. She’s free spirited, opinionated, loves travelling and takes banging pics as if she was born for the paparazzi lifestyle. 
+
+Latoya’s also a law graduate who has taken a gap year before she does her bar exams.  She is the loving mother to 5 dogs; Tiger, Lily, Olivia, Patch and Blue. 
+
+We think she’s a great addition to the podcast ! What do you guys think ?
+
+#TooMuchPlasas #salone #freetown #sierraleone #podcast #africa #youngafrica #young #life #sweetsalone #switsalone #freetong  #plasasandpoyo
+
+#TooMuchPlasas
+#PlasasandPoyoSundays">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17882168386682642" data-date="1595768097" data-numcomments="7">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDGyVk9l92f/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 26</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/116042572_3582180481814852_6136758274115104428_n.jpg?_nc_cat=109&_nc_sid=8ae9d6&_nc_ohc=2SpTXHmCpGQAX9xI-78&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=7802a3622dc2d8aa03d3430fa641bea3&oe=5F44B6B7" rel="nofollow noopener" data-lightbox-sbi="" data-title="Beim CSD in Berlin angetroffen schwanzundehrlich ☺️&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+#berlin #gay #schwanzundehrlich #gayberlin #lgbt #selfie #csdberlin #pic #picoftheday #liketime #like4likes #instagay #podcast #gayberlin #proud" data-video="" data-carousel="" data-id="sbi_17882168386682642" data-user="" data-url="https://www.instagram.com/p/CDGyVk9l92f/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDGyVk9l92f/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/116042572_3582180481814852_6136758274115104428_n.jpg?_nc_cat=109&#038;_nc_sid=8ae9d6&#038;_nc_ohc=2SpTXHmCpGQAX9xI-78&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=7802a3622dc2d8aa03d3430fa641bea3&#038;oe=5F44B6B7" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/116042572_3582180481814852_6136758274115104428_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=2SpTXHmCpGQAX9xI-78&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=7802a3622dc2d8aa03d3430fa641bea3&amp;oe=5F44B6B7&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDGyVk9l92f\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CDGyVk9l92f\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/116042572_3582180481814852_6136758274115104428_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=2SpTXHmCpGQAX9xI-78&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=7802a3622dc2d8aa03d3430fa641bea3&amp;oe=5F44B6B7&quot;}">
+            <span class="sbi-screenreader"></span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="Beim CSD in Berlin angetroffen schwanzundehrlich ☺️
+.
+.
+#berlin #gay #schwanzundehrlich #gayberlin #lgbt #selfie #csdberlin #pic #picoftheday #liketime #like4likes #instagay #podcast #gayberlin #proud">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17860598924040217" data-date="1595788983" data-numcomments="1">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDHaLJkJuPY/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 26</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/115709102_152080626501691_8516596623979384623_n.jpg?_nc_cat=109&_nc_sid=8ae9d6&_nc_ohc=bLU5EnaL2B4AX8iQAGr&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=b1f6a47a34ecdb46640e7c14d57b10dd&oe=5F41CD79" rel="nofollow noopener" data-lightbox-sbi="" data-title="So thankful for greenindustrypodcast  and echousa for the opportunity to podcast today at our home ❤️ Paul makes podcasting easy and natural. A lot of fun and a lot of business talk today but we love learning and talking about how we can make our company better. &lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+#aumanlandscape #podcast #womeninconstruction #landscape #hardscape #business #businessadvice #entrepreneur #husbandwifebusiness" data-video="" data-carousel="" data-id="sbi_17860598924040217" data-user="" data-url="https://www.instagram.com/p/CDHaLJkJuPY/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDHaLJkJuPY/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/115709102_152080626501691_8516596623979384623_n.jpg?_nc_cat=109&#038;_nc_sid=8ae9d6&#038;_nc_ohc=bLU5EnaL2B4AX8iQAGr&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=b1f6a47a34ecdb46640e7c14d57b10dd&#038;oe=5F41CD79" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/115709102_152080626501691_8516596623979384623_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bLU5EnaL2B4AX8iQAGr&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=b1f6a47a34ecdb46640e7c14d57b10dd&amp;oe=5F41CD79&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDHaLJkJuPY\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CDHaLJkJuPY\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/115709102_152080626501691_8516596623979384623_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bLU5EnaL2B4AX8iQAGr&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=b1f6a47a34ecdb46640e7c14d57b10dd&amp;oe=5F41CD79&quot;}">
+            <span class="sbi-screenreader">So thankful for greenindustrypodcast  and echousa </span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="So thankful for greenindustrypodcast  and echousa for the opportunity to podcast today at our home ❤️ Paul makes podcasting easy and natural. A lot of fun and a lot of business talk today but we love learning and talking about how we can make our company better. 
+.
+.
+.
+#aumanlandscape #podcast #womeninconstruction #landscape #hardscape #business #businessadvice #entrepreneur #husbandwifebusiness">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18127500661108956" data-date="1595765976" data-numcomments="3">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDGuStgptAy/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 26</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/115913798_375804000085079_1225580653237079799_n.jpg?_nc_cat=109&_nc_sid=8ae9d6&_nc_ohc=FRAolhAQ964AX9DImBd&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=7e503d76a325784cf43aef566125c2b2&oe=5F43529D" rel="nofollow noopener" data-lightbox-sbi="" data-title="Sonntagmorgen ist wohl der falsche Anfang dieses Posts um 14 Uhr ebbes… was solls, wir sind heute unendlich faul - nachdem Nila gestern ihren ersten Polterabend mitfeiern durfte. Nach anfänglicher Irritation warum das ganze Geschirr oder auch eine Toilette mit so viel Freunde einfach auf dem Boden zerschlagen werden darf, fand sie grosses Interesse daran. Es blieb also heute nicht aus ihr zu erklären,  dass das wenige Geschirr das in diesem Haushalt vorhanden ist, im besten Fall nicht zerstört werden sollte. &lt;br&gt;
+Zwischen Regen und Sonne, haben wir die nächsten Tage hoffentlich besseres Wetter, sonst fallen die Urlaubsausflüge Flach - oder hat hier eine Mutter / Vater / Tante / Omi / schlicht weg- irgendwer -  noch ein paar Ideen in petto? …Podcast oder Doku Empfehlungen nehme ich auch gerne an - für die Abendstunden wenn die kleinere Dame von uns im Bett ist. &lt;3&lt;br&gt;
+#portraitphotography #sun #thinkverylittle #thinkveryfilm #potd #throwback #speyer #hamburg #stuttgart #intercollective #fivesixmag #takenagazine #ourmag #35mm #sony #sonyalpha #sonya7riii #sonya7iii #color #portrait_vision #photocinematica #rentalmag #visualcommunication #strasbourg #straßburg #bw #podcast #dokus #herdamit // Werbung weil Markenverlinkung weekdayofficial #weekday" data-video="" data-carousel="" data-id="sbi_18127500661108956" data-user="" data-url="https://www.instagram.com/p/CDGuStgptAy/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDGuStgptAy/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/115913798_375804000085079_1225580653237079799_n.jpg?_nc_cat=109&#038;_nc_sid=8ae9d6&#038;_nc_ohc=FRAolhAQ964AX9DImBd&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=7e503d76a325784cf43aef566125c2b2&#038;oe=5F43529D" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/115913798_375804000085079_1225580653237079799_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=FRAolhAQ964AX9DImBd&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=7e503d76a325784cf43aef566125c2b2&amp;oe=5F43529D&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDGuStgptAy\/media?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CDGuStgptAy\/media?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/115913798_375804000085079_1225580653237079799_n.jpg?_nc_cat=109&amp;_nc_sid=8ae9d6&amp;_nc_ohc=FRAolhAQ964AX9DImBd&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=7e503d76a325784cf43aef566125c2b2&amp;oe=5F43529D&quot;}">
+            <span class="sbi-screenreader">Sonntagmorgen ist wohl der falsche Anfang dieses P</span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="Sonntagmorgen ist wohl der falsche Anfang dieses Posts um 14 Uhr ebbes… was solls, wir sind heute unendlich faul - nachdem Nila gestern ihren ersten Polterabend mitfeiern durfte. Nach anfänglicher Irritation warum das ganze Geschirr oder auch eine Toilette mit so viel Freunde einfach auf dem Boden zerschlagen werden darf, fand sie grosses Interesse daran. Es blieb also heute nicht aus ihr zu erklären,  dass das wenige Geschirr das in diesem Haushalt vorhanden ist, im besten Fall nicht zerstört werden sollte. 
+Zwischen Regen und Sonne, haben wir die nächsten Tage hoffentlich besseres Wetter, sonst fallen die Urlaubsausflüge Flach - oder hat hier eine Mutter / Vater / Tante / Omi / schlicht weg- irgendwer -  noch ein paar Ideen in petto? …Podcast oder Doku Empfehlungen nehme ich auch gerne an - für die Abendstunden wenn die kleinere Dame von uns im Bett ist. &lt;3
+#portraitphotography #sun #thinkverylittle #thinkveryfilm #potd #throwback #speyer #hamburg #stuttgart #intercollective #fivesixmag #takenagazine #ourmag #35mm #sony #sonyalpha #sonya7riii #sonya7iii #color #portrait_vision #photocinematica #rentalmag #visualcommunication #strasbourg #straßburg #bw #podcast #dokus #herdamit // Werbung weil Markenverlinkung weekdayofficial #weekday">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17851030016169378" data-date="1595777049" data-numcomments="15">
+    <div class="sbi_photo_wrap">
+	    	            <div class="sbi_link" >
+            <div class="sbi_hover_top">
+	                            <p class="sbi_username">
+                    <a href="https://www.instagram.com//" target="_blank" rel="nofollow noopener" ></a>
+                </p>
+	            	                        </div>
+	                    <a class="sbi_instagram_link" href="https://www.instagram.com/p/CDHDaVQod2x/" target="_blank" rel="nofollow noopener" title="Instagram" >
+                <span class="sbi-screenreader">View</span>
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            </a>
+	                    <div class="sbi_hover_bottom" >
+	                            <p>
+	                                    <span class="sbi_date">
+                        <svg  class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="far" data-icon="clock" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>                        Jul 26</span>
+	                
+	                                </p>
+	                                        </div>
+            <a class="sbi_link_area nofancybox" href="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/113554927_3456733294357721_5423810822469701914_n.jpg?_nc_cat=104&_nc_sid=8ae9d6&_nc_ohc=mXv7e49zQ8IAX-6Egh5&_nc_ht=scontent-sjc3-1.cdninstagram.com&oh=21bb22c42c7a3d5dc7be80b6cac3f6ac&oe=5F422F6D" rel="nofollow noopener" data-lightbox-sbi="" data-title="#weekendoutfit 💃 Na wie war euer Wochenende? ☺️ Ich war fleißig für euch und es gibt eine Podcast Folge 🤩 Ich spreche mit David Klinkhammer fitrinsic (Dozent an der deutschesportakademie, Personal Trainer und Bootcamp Instructor) über #Trainingsplanung und &quot;Regeln&quot; im Fitness Training.&lt;br&gt;
+Brauche ich einen Trainingsplan? Kann ich ihn selbst erstellen oder brauche ich einen Trainer dafür ❓Was sind die wichtigsten Regeln die ich beachten muss, um Fortschritte zu machen? Unter anderem dazu erzählt David ganz viel.&lt;br&gt;
+Und am Ende der Folge gibt er auch noch einige Literatur-Tipps. 👌🏼&lt;br&gt;
+Ich finde die Episode ist mega interessant geworden! Findet ihr wie immer auf Spotify. Und auch auf YouTube. Einfach „Happymims“ suchen ☺️ oder in meine Story schauen und hochswipen. 😊&lt;br&gt;
+Schönen Sonntag euch noch! 🙌🏼&lt;br&gt;
+#podcast #fitnesspodcast #happymims #fitrinsic #deutschesportakademie #trainingsplan #fitnesstraining #gesundleben #fitundgesund #fitundglücklich #happyfit #fitnessblogger_de #nürnberg #fitnessliebe #fitfam_de #nürnberg #nbg #fürth" data-video="" data-carousel="" data-id="sbi_17851030016169378" data-user="" data-url="https://www.instagram.com/p/CDHDaVQod2x/" data-avatar="" data-account-type="business">
+                <span class="sbi-screenreader">Open</span>
+				            </a>
+        </div>
+
+        <a class="sbi_photo" href="https://www.instagram.com/p/CDHDaVQod2x/" target="_blank" rel="nofollow noopener" data-full-res="https://scontent-sjc3-1.cdninstagram.com/v/t51.29350-15/113554927_3456733294357721_5423810822469701914_n.jpg?_nc_cat=104&#038;_nc_sid=8ae9d6&#038;_nc_ohc=mXv7e49zQ8IAX-6Egh5&#038;_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;oh=21bb22c42c7a3d5dc7be80b6cac3f6ac&#038;oe=5F422F6D" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sjc3-1.cdninstagram.com\/v\/t51.29350-15\/113554927_3456733294357721_5423810822469701914_n.jpg?_nc_cat=104&amp;_nc_sid=8ae9d6&amp;_nc_ohc=mXv7e49zQ8IAX-6Egh5&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;oh=21bb22c42c7a3d5dc7be80b6cac3f6ac&amp;oe=5F422F6D&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CDHDaVQod2x\/media?size=t&quot;,&quot;320&quot;:&quot;http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/uploads\/sites\/34\/sb-instagram-feed-images\/113554927_3456733294357721_5423810822469701914_nlow.jpg&quot;,&quot;640&quot;:&quot;http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/uploads\/sites\/34\/sb-instagram-feed-images\/113554927_3456733294357721_5423810822469701914_nfull.jpg&quot;}">
+            <span class="sbi-screenreader"></span>
+            <img src="http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/img/placeholder.png" alt="#weekendoutfit 💃 Na wie war euer Wochenende? ☺️ Ich war fleißig für euch und es gibt eine Podcast Folge 🤩 Ich spreche mit David Klinkhammer fitrinsic (Dozent an der deutschesportakademie, Personal Trainer und Bootcamp Instructor) über #Trainingsplanung und &quot;Regeln&quot; im Fitness Training.
+Brauche ich einen Trainingsplan? Kann ich ihn selbst erstellen oder brauche ich einen Trainer dafür ❓Was sind die wichtigsten Regeln die ich beachten muss, um Fortschritte zu machen? Unter anderem dazu erzählt David ganz viel.
+Und am Ende der Folge gibt er auch noch einige Literatur-Tipps. 👌🏼
+Ich finde die Episode ist mega interessant geworden! Findet ihr wie immer auf Spotify. Und auch auf YouTube. Einfach „Happymims“ suchen ☺️ oder in meine Story schauen und hochswipen. 😊
+Schönen Sonntag euch noch! 🙌🏼
+#podcast #fitnesspodcast #happymims #fitrinsic #deutschesportakademie #trainingsplan #fitnesstraining #gesundleben #fitundgesund #fitundglücklich #happyfit #fitnessblogger_de #nürnberg #fitnessliebe #fitfam_de #nürnberg #nbg #fürth">
+        </a>
+    </div>
+
+    <div class="sbi_info">
+
+        
+	    
+    </div>
+
+</div>    </div>
+
+	<div id="sbi_load">
+
+	
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_+PODCAST#8" data-resized="{&quot;17860336685038697&quot;:{&quot;id&quot;:&quot;116022315_2572871549600214_5115499635961725833_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17876905522752045&quot;:{&quot;id&quot;:&quot;116110347_1181051802295693_3324780718915606625_n&quot;,&quot;ratio&quot;:&quot;0.82&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17851030016169378&quot;:{&quot;id&quot;:&quot;113554927_3456733294357721_5423810822469701914_n&quot;,&quot;ratio&quot;:&quot;0.87&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
+	</span>
+	
+</div>
+
+</div>                <div class="empty-space marg-xs-b30"></div>
+      </div>
+          <div class="col-md-3 col-sm-6 col-3">
+                  <div id="recent-posts-3" class="widget tt-footer-list footer_widget widget_recent_posts_entries">    <h5 class="tt-title-block-2">Recent Posts</h5><div class="empty-space marg-lg-b20"></div>    <ul class="tt-post-list dark">
+      
+  <li>
+    <div class="tt-post type-7 dark clearfix post-454 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+        <div class="tt-post-info">
+            <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">Genetics Banter</a>
+              <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/" rel="category tag">Life Hack</a>, <a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/" rel="category tag">Morning Show</a></div>
+        </div>
+    </div>                                            
+  </li>
+
+  
+  <li>
+    <div class="tt-post type-7 dark clearfix post-455 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jens-kreuter-57188-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+        <div class="tt-post-info">
+            <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/ellens-degenerates/">Ellen&#8217;s Degenerates</a>
+              <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/" rel="category tag">Life Hack</a>, <a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/" rel="category tag">Morning Show</a></div>
+        </div>
+    </div>                                            
+  </li>
+
+  
+  <li>
+    <div class="tt-post type-7 dark clearfix post-456 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+        <div class="tt-post-info">
+            <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">The Christmas Episode</a>
+              <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/" rel="category tag">Life Hack</a>, <a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/" rel="category tag">Morning Show</a></div>
+        </div>
+    </div>                                            
+  </li>
+
+                                                      
+    </ul>
+
+  </div>                <div class="empty-space marg-xs-b30"></div>
+      </div>
+          <div class="col-md-3 col-sm-6 col-4">
+                  <div id="tabbed-posts-3" class="widget tt-footer-list footer_widget widget_posts_tabbed_entries">
+
+    <div class="tt-tab-wrapper type-1 clearfix">
+      <div class="tt-tab-nav-wrapper">
+        <div  class="tt-nav-tab">
+          <div class="tt-nav-tab-item active"><i class="material-icons">trending_up</i>Trending</div>
+          <div class="tt-nav-tab-item"><i class="material-icons">whatshot</i>Popular</div>
+        </div>
+      </div>
+      <div class="tt-tabs-content clearfix">
+        <div class="tt-tab-info active">
+          <ul class="tt-post-list">
+            
+  <li>
+    <div class="tt-post type-7 clearfix post-427 post type-post status-publish format-standard has-post-thumbnail hentry category-podcast tag-classic tag-fashion">
+              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/girl-friday/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/girl-friday-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/girl-friday-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/girl-friday-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/girl-friday.jpg 400w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/girl-friday-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/girl-friday-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+        <div class="tt-post-info">
+            <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/girl-friday/">Girl Friday</a>
+              <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/podcastpro/category/podcast/" rel="category tag">Podcast</a></div>
+        </div>
+    </div>
+  </li>
+
+  
+  <li>
+    <div class="tt-post type-7 clearfix post-426 post type-post status-publish format-standard has-post-thumbnail hentry category-podcast tag-classic tag-fashion">
+              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/missing-richard-summon/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/missing-richard-simmons-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/missing-richard-simmons-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/missing-richard-simmons-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/missing-richard-simmons.jpg 400w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/missing-richard-simmons-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/03/missing-richard-simmons-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+        <div class="tt-post-info">
+            <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/missing-richard-summon/">Missing Richard Summon</a>
+              <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/podcastpro/category/podcast/" rel="category tag">Podcast</a></div>
+        </div>
+    </div>
+  </li>
+
+            </ul>
+          <a class="c-btn type-2" href="http://themebubble.com/demo/magplus/podcastpro/">Show More</a>
+        </div>
+        <div class="tt-tab-info">
+          <ul class="tt-post-list">
+            
+  <li>
+    <div class="tt-post type-7 clearfix post-454 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/radek-grzybowski-66457-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+        <div class="tt-post-info">
+            <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/genetics-banter/">Genetics Banter</a>
+              <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/" rel="category tag">Life Hack</a>, <a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/" rel="category tag">Morning Show</a></div>
+        </div>
+    </div>
+  </li>
+
+  
+  <li>
+    <div class="tt-post type-7 clearfix post-456 post type-post status-publish format-standard has-post-thumbnail hentry category-life-hack category-morning-show tag-classic tag-fashion">
+              <a class="tt-post-img custom-hover" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">
+      <img width="80" height="80" src="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-80x80.jpg" class="img-responsive wp-post-image" alt="" srcset="http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-80x80.jpg 80w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-300x300.jpg 300w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-100x100.jpg 100w, http://themebubble.com/demo/magplus/podcastpro/wp-content/uploads/sites/34/2017/07/jeff-sheldon-3225-150x150.jpg 150w" sizes="(max-width: 80px) 100vw, 80px" />    </a>
+        <div class="tt-post-info">
+            <a class="tt-post-title c-h6" href="http://themebubble.com/demo/magplus/podcastpro/2017/07/08/the-christmas-episode/">The Christmas Episode</a>
+              <div class="tt-post-cat"><a href="http://themebubble.com/demo/magplus/podcastpro/category/life-hack/" rel="category tag">Life Hack</a>, <a href="http://themebubble.com/demo/magplus/podcastpro/category/morning-show/" rel="category tag">Morning Show</a></div>
+        </div>
+    </div>
+  </li>
+
+            </ul>
+          <a class="c-btn type-2" href="http://themebubble.com/demo/magplus/podcastpro/">Show More</a>
+        </div>
+      </div>
+    </div>
+
+  </div>                <div class="empty-space marg-xs-b30"></div>
+      </div>
+          <div class="col-md-12"><div class="empty-space marg-lg-b60 marg-sm-b50 marg-xs-b30"></div></div>
+    </div>
+  </div>
+  <div class="tt-footer-copy">
+    <div class="container">
+      Made with coffee &amp; love by ThemeBubble ©All rights reservd.    </div>
+  </div>
+</div> 
+
+</div>
+</div>
+<!-- Custom Feeds for Instagram JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://themebubble.com/demo/magplus/podcastpro/wp-admin/admin-ajax.php";
+
+</script>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/demo\/magplus\/podcastpro\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/demo\/magplus\/podcastpro\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/demo\/magplus\/podcastpro\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/demo\/magplus\/podcastpro\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_86a5ce9531f8481923b306074c0ed084","fragment_name":"wc_fragments_86a5ce9531f8481923b306074c0ed084","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.3.0'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var magplus_ajax = {"ajaxurl":"http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-admin\/admin-ajax.php","siteurl":"http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/themes\/magplus","nonce":"8af5738434"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/js/global.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/js/match.height.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/js/jquery.formstone.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/js/jquery.appear.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/themes/magplus/js/parallax.min.js?ver=5.3'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","profile_error":"A mandatory field is not filled in","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/newsletter/subscription/validate.js?ver=6.7.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/uploads\/sites\/34\/sb-instagram-feed-images\/","placeholder":"http:\/\/themebubble.com\/demo\/magplus\/podcastpro\/wp-content\/plugins\/instagram-feed-pro\/img\/placeholder.png","br_adjust":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themebubble.com/demo/magplus/podcastpro/wp-content/plugins/instagram-feed-pro/js/sb-instagram.min.js?ver=5.6'></script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1595806852 -->
